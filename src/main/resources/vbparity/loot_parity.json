@@ -1,0 +1,689 @@
+{
+ "random_sequence": {
+  "minecraft:barrels/abandoned_camp_barrel": "minecraft:barrels/abandoned_camp_barrel",
+  "minecraft:blocks/black_concrete_slab": "minecraft:blocks/black_concrete_slab",
+  "minecraft:blocks/black_concrete_stairs": "minecraft:blocks/black_concrete_stairs",
+  "minecraft:blocks/black_wool_slab": "minecraft:blocks/black_wool_slab",
+  "minecraft:blocks/black_wool_stairs": "minecraft:blocks/black_wool_stairs",
+  "minecraft:blocks/blue_concrete_slab": "minecraft:blocks/blue_concrete_slab",
+  "minecraft:blocks/blue_concrete_stairs": "minecraft:blocks/blue_concrete_stairs",
+  "minecraft:blocks/blue_wool_slab": "minecraft:blocks/blue_wool_slab",
+  "minecraft:blocks/blue_wool_stairs": "minecraft:blocks/blue_wool_stairs",
+  "minecraft:blocks/brown_concrete_slab": "minecraft:blocks/brown_concrete_slab",
+  "minecraft:blocks/brown_concrete_stairs": "minecraft:blocks/brown_concrete_stairs",
+  "minecraft:blocks/brown_wool_slab": "minecraft:blocks/brown_wool_slab",
+  "minecraft:blocks/brown_wool_stairs": "minecraft:blocks/brown_wool_stairs",
+  "minecraft:blocks/bush": "minecraft:blocks/bush",
+  "minecraft:blocks/cactus_flower": "minecraft:blocks/cactus_flower",
+  "minecraft:blocks/chiseled_cinnabar": "minecraft:blocks/chiseled_cinnabar",
+  "minecraft:blocks/chiseled_resin_bricks": "minecraft:blocks/chiseled_resin_bricks",
+  "minecraft:blocks/chiseled_sulfur": "minecraft:blocks/chiseled_sulfur",
+  "minecraft:blocks/cinnabar": "minecraft:blocks/cinnabar",
+  "minecraft:blocks/cinnabar_brick_slab": "minecraft:blocks/cinnabar_brick_slab",
+  "minecraft:blocks/cinnabar_brick_stairs": "minecraft:blocks/cinnabar_brick_stairs",
+  "minecraft:blocks/cinnabar_brick_wall": "minecraft:blocks/cinnabar_brick_wall",
+  "minecraft:blocks/cinnabar_bricks": "minecraft:blocks/cinnabar_bricks",
+  "minecraft:blocks/cinnabar_slab": "minecraft:blocks/cinnabar_slab",
+  "minecraft:blocks/cinnabar_stairs": "minecraft:blocks/cinnabar_stairs",
+  "minecraft:blocks/cinnabar_wall": "minecraft:blocks/cinnabar_wall",
+  "minecraft:blocks/closed_eyeblossom": "minecraft:blocks/closed_eyeblossom",
+  "minecraft:blocks/creaking_heart": "minecraft:blocks/creaking_heart",
+  "minecraft:blocks/cyan_concrete_slab": "minecraft:blocks/cyan_concrete_slab",
+  "minecraft:blocks/cyan_concrete_stairs": "minecraft:blocks/cyan_concrete_stairs",
+  "minecraft:blocks/cyan_wool_slab": "minecraft:blocks/cyan_wool_slab",
+  "minecraft:blocks/cyan_wool_stairs": "minecraft:blocks/cyan_wool_stairs",
+  "minecraft:blocks/firefly_bush": "minecraft:blocks/firefly_bush",
+  "minecraft:blocks/gray_concrete_slab": "minecraft:blocks/gray_concrete_slab",
+  "minecraft:blocks/gray_concrete_stairs": "minecraft:blocks/gray_concrete_stairs",
+  "minecraft:blocks/gray_wool_slab": "minecraft:blocks/gray_wool_slab",
+  "minecraft:blocks/gray_wool_stairs": "minecraft:blocks/gray_wool_stairs",
+  "minecraft:blocks/green_concrete_slab": "minecraft:blocks/green_concrete_slab",
+  "minecraft:blocks/green_concrete_stairs": "minecraft:blocks/green_concrete_stairs",
+  "minecraft:blocks/green_wool_slab": "minecraft:blocks/green_wool_slab",
+  "minecraft:blocks/green_wool_stairs": "minecraft:blocks/green_wool_stairs",
+  "minecraft:blocks/leaf_litter": "minecraft:blocks/leaf_litter",
+  "minecraft:blocks/light_blue_concrete_slab": "minecraft:blocks/light_blue_concrete_slab",
+  "minecraft:blocks/light_blue_concrete_stairs": "minecraft:blocks/light_blue_concrete_stairs",
+  "minecraft:blocks/light_blue_wool_slab": "minecraft:blocks/light_blue_wool_slab",
+  "minecraft:blocks/light_blue_wool_stairs": "minecraft:blocks/light_blue_wool_stairs",
+  "minecraft:blocks/light_gray_concrete_slab": "minecraft:blocks/light_gray_concrete_slab",
+  "minecraft:blocks/light_gray_concrete_stairs": "minecraft:blocks/light_gray_concrete_stairs",
+  "minecraft:blocks/light_gray_wool_slab": "minecraft:blocks/light_gray_wool_slab",
+  "minecraft:blocks/light_gray_wool_stairs": "minecraft:blocks/light_gray_wool_stairs",
+  "minecraft:blocks/lime_concrete_slab": "minecraft:blocks/lime_concrete_slab",
+  "minecraft:blocks/lime_concrete_stairs": "minecraft:blocks/lime_concrete_stairs",
+  "minecraft:blocks/lime_wool_slab": "minecraft:blocks/lime_wool_slab",
+  "minecraft:blocks/lime_wool_stairs": "minecraft:blocks/lime_wool_stairs",
+  "minecraft:blocks/magenta_concrete_slab": "minecraft:blocks/magenta_concrete_slab",
+  "minecraft:blocks/magenta_concrete_stairs": "minecraft:blocks/magenta_concrete_stairs",
+  "minecraft:blocks/magenta_wool_slab": "minecraft:blocks/magenta_wool_slab",
+  "minecraft:blocks/magenta_wool_stairs": "minecraft:blocks/magenta_wool_stairs",
+  "minecraft:blocks/open_eyeblossom": "minecraft:blocks/open_eyeblossom",
+  "minecraft:blocks/orange_concrete_slab": "minecraft:blocks/orange_concrete_slab",
+  "minecraft:blocks/orange_concrete_stairs": "minecraft:blocks/orange_concrete_stairs",
+  "minecraft:blocks/orange_poplar_leaves": "minecraft:blocks/orange_poplar_leaves",
+  "minecraft:blocks/orange_wool_slab": "minecraft:blocks/orange_wool_slab",
+  "minecraft:blocks/orange_wool_stairs": "minecraft:blocks/orange_wool_stairs",
+  "minecraft:blocks/pale_hanging_moss": "minecraft:blocks/pale_hanging_moss",
+  "minecraft:blocks/pale_moss_block": "minecraft:blocks/pale_moss_block",
+  "minecraft:blocks/pale_moss_carpet": "minecraft:blocks/pale_moss_carpet",
+  "minecraft:blocks/pale_oak_button": "minecraft:blocks/pale_oak_button",
+  "minecraft:blocks/pale_oak_door": "minecraft:blocks/pale_oak_door",
+  "minecraft:blocks/pale_oak_fence": "minecraft:blocks/pale_oak_fence",
+  "minecraft:blocks/pale_oak_fence_gate": "minecraft:blocks/pale_oak_fence_gate",
+  "minecraft:blocks/pale_oak_hanging_sign": "minecraft:blocks/pale_oak_hanging_sign",
+  "minecraft:blocks/pale_oak_leaves": "minecraft:blocks/pale_oak_leaves",
+  "minecraft:blocks/pale_oak_log": "minecraft:blocks/pale_oak_log",
+  "minecraft:blocks/pale_oak_planks": "minecraft:blocks/pale_oak_planks",
+  "minecraft:blocks/pale_oak_pressure_plate": "minecraft:blocks/pale_oak_pressure_plate",
+  "minecraft:blocks/pale_oak_sapling": "minecraft:blocks/pale_oak_sapling",
+  "minecraft:blocks/pale_oak_sign": "minecraft:blocks/pale_oak_sign",
+  "minecraft:blocks/pale_oak_slab": "minecraft:blocks/pale_oak_slab",
+  "minecraft:blocks/pale_oak_stairs": "minecraft:blocks/pale_oak_stairs",
+  "minecraft:blocks/pale_oak_trapdoor": "minecraft:blocks/pale_oak_trapdoor",
+  "minecraft:blocks/pale_oak_wood": "minecraft:blocks/pale_oak_wood",
+  "minecraft:blocks/pink_concrete_slab": "minecraft:blocks/pink_concrete_slab",
+  "minecraft:blocks/pink_concrete_stairs": "minecraft:blocks/pink_concrete_stairs",
+  "minecraft:blocks/pink_wool_slab": "minecraft:blocks/pink_wool_slab",
+  "minecraft:blocks/pink_wool_stairs": "minecraft:blocks/pink_wool_stairs",
+  "minecraft:blocks/polished_cinnabar": "minecraft:blocks/polished_cinnabar",
+  "minecraft:blocks/polished_cinnabar_slab": "minecraft:blocks/polished_cinnabar_slab",
+  "minecraft:blocks/polished_cinnabar_stairs": "minecraft:blocks/polished_cinnabar_stairs",
+  "minecraft:blocks/polished_cinnabar_wall": "minecraft:blocks/polished_cinnabar_wall",
+  "minecraft:blocks/polished_sulfur": "minecraft:blocks/polished_sulfur",
+  "minecraft:blocks/polished_sulfur_slab": "minecraft:blocks/polished_sulfur_slab",
+  "minecraft:blocks/polished_sulfur_stairs": "minecraft:blocks/polished_sulfur_stairs",
+  "minecraft:blocks/polished_sulfur_wall": "minecraft:blocks/polished_sulfur_wall",
+  "minecraft:blocks/poplar_button": "minecraft:blocks/poplar_button",
+  "minecraft:blocks/poplar_door": "minecraft:blocks/poplar_door",
+  "minecraft:blocks/poplar_fence": "minecraft:blocks/poplar_fence",
+  "minecraft:blocks/poplar_fence_gate": "minecraft:blocks/poplar_fence_gate",
+  "minecraft:blocks/poplar_hanging_sign": "minecraft:blocks/poplar_hanging_sign",
+  "minecraft:blocks/poplar_log": "minecraft:blocks/poplar_log",
+  "minecraft:blocks/poplar_planks": "minecraft:blocks/poplar_planks",
+  "minecraft:blocks/poplar_pressure_plate": "minecraft:blocks/poplar_pressure_plate",
+  "minecraft:blocks/poplar_sapling": "minecraft:blocks/poplar_sapling",
+  "minecraft:blocks/poplar_shelf": "minecraft:blocks/poplar_shelf",
+  "minecraft:blocks/poplar_sign": "minecraft:blocks/poplar_sign",
+  "minecraft:blocks/poplar_slab": "minecraft:blocks/poplar_slab",
+  "minecraft:blocks/poplar_stairs": "minecraft:blocks/poplar_stairs",
+  "minecraft:blocks/poplar_trapdoor": "minecraft:blocks/poplar_trapdoor",
+  "minecraft:blocks/poplar_wood": "minecraft:blocks/poplar_wood",
+  "minecraft:blocks/potent_sulfur": "minecraft:blocks/potent_sulfur",
+  "minecraft:blocks/potted_closed_eyeblossom": "minecraft:blocks/potted_closed_eyeblossom",
+  "minecraft:blocks/potted_open_eyeblossom": "minecraft:blocks/potted_open_eyeblossom",
+  "minecraft:blocks/potted_pale_oak_sapling": "minecraft:blocks/potted_pale_oak_sapling",
+  "minecraft:blocks/potted_poplar_sapling": "minecraft:blocks/potted_poplar_sapling",
+  "minecraft:blocks/purple_concrete_slab": "minecraft:blocks/purple_concrete_slab",
+  "minecraft:blocks/purple_concrete_stairs": "minecraft:blocks/purple_concrete_stairs",
+  "minecraft:blocks/purple_wool_slab": "minecraft:blocks/purple_wool_slab",
+  "minecraft:blocks/purple_wool_stairs": "minecraft:blocks/purple_wool_stairs",
+  "minecraft:blocks/red_concrete_slab": "minecraft:blocks/red_concrete_slab",
+  "minecraft:blocks/red_concrete_stairs": "minecraft:blocks/red_concrete_stairs",
+  "minecraft:blocks/red_poplar_leaves": "minecraft:blocks/red_poplar_leaves",
+  "minecraft:blocks/red_shrub": "minecraft:blocks/red_shrub",
+  "minecraft:blocks/red_wool_slab": "minecraft:blocks/red_wool_slab",
+  "minecraft:blocks/red_wool_stairs": "minecraft:blocks/red_wool_stairs",
+  "minecraft:blocks/resin_block": "minecraft:blocks/resin_block",
+  "minecraft:blocks/resin_brick_slab": "minecraft:blocks/resin_brick_slab",
+  "minecraft:blocks/resin_brick_stairs": "minecraft:blocks/resin_brick_stairs",
+  "minecraft:blocks/resin_brick_wall": "minecraft:blocks/resin_brick_wall",
+  "minecraft:blocks/resin_bricks": "minecraft:blocks/resin_bricks",
+  "minecraft:blocks/resin_clump": "minecraft:blocks/resin_clump",
+  "minecraft:blocks/shelf_mushroom": "minecraft:blocks/shelf_mushroom",
+  "minecraft:blocks/short_dry_grass": "minecraft:blocks/short_dry_grass",
+  "minecraft:blocks/straw_bed": "minecraft:blocks/straw_bed",
+  "minecraft:blocks/stripped_pale_oak_log": "minecraft:blocks/stripped_pale_oak_log",
+  "minecraft:blocks/stripped_pale_oak_wood": "minecraft:blocks/stripped_pale_oak_wood",
+  "minecraft:blocks/stripped_poplar_log": "minecraft:blocks/stripped_poplar_log",
+  "minecraft:blocks/stripped_poplar_wood": "minecraft:blocks/stripped_poplar_wood",
+  "minecraft:blocks/sulfur": "minecraft:blocks/sulfur",
+  "minecraft:blocks/sulfur_brick_slab": "minecraft:blocks/sulfur_brick_slab",
+  "minecraft:blocks/sulfur_brick_stairs": "minecraft:blocks/sulfur_brick_stairs",
+  "minecraft:blocks/sulfur_brick_wall": "minecraft:blocks/sulfur_brick_wall",
+  "minecraft:blocks/sulfur_bricks": "minecraft:blocks/sulfur_bricks",
+  "minecraft:blocks/sulfur_slab": "minecraft:blocks/sulfur_slab",
+  "minecraft:blocks/sulfur_spike": "minecraft:blocks/sulfur_spike",
+  "minecraft:blocks/sulfur_stairs": "minecraft:blocks/sulfur_stairs",
+  "minecraft:blocks/sulfur_wall": "minecraft:blocks/sulfur_wall",
+  "minecraft:blocks/tall_dry_grass": "minecraft:blocks/tall_dry_grass",
+  "minecraft:blocks/white_concrete_slab": "minecraft:blocks/white_concrete_slab",
+  "minecraft:blocks/white_concrete_stairs": "minecraft:blocks/white_concrete_stairs",
+  "minecraft:blocks/white_wool_slab": "minecraft:blocks/white_wool_slab",
+  "minecraft:blocks/white_wool_stairs": "minecraft:blocks/white_wool_stairs",
+  "minecraft:blocks/wildflowers": "minecraft:blocks/wildflowers",
+  "minecraft:blocks/yellow_concrete_slab": "minecraft:blocks/yellow_concrete_slab",
+  "minecraft:blocks/yellow_concrete_stairs": "minecraft:blocks/yellow_concrete_stairs",
+  "minecraft:blocks/yellow_poplar_leaves": "minecraft:blocks/yellow_poplar_leaves",
+  "minecraft:blocks/yellow_wool_slab": "minecraft:blocks/yellow_wool_slab",
+  "minecraft:blocks/yellow_wool_stairs": "minecraft:blocks/yellow_wool_stairs",
+  "minecraft:chests/abandoned_camp_common_chest": "minecraft:chests/abandoned_camp_common_chest",
+  "minecraft:chests/abandoned_camp_secret_chest": "minecraft:chests/abandoned_camp_secret_chest",
+  "minecraft:entities/camel_husk": "minecraft:entities/camel_husk",
+  "minecraft:entities/creaking": "minecraft:entities/creaking",
+  "minecraft:entities/nautilus": "minecraft:entities/nautilus",
+  "minecraft:entities/parched": "minecraft:entities/parched",
+  "minecraft:entities/sulfur_cube": "minecraft:entities/sulfur_cube",
+  "minecraft:entities/zombie_nautilus": "minecraft:entities/zombie_nautilus"
+ },
+ "placements": [
+  {
+   "table": "minecraft:chests/bastion_treasure",
+   "pool": 0,
+   "items": [
+    "minecraft:diamond_spear"
+   ],
+   "present_if": {
+    "minecraft:diamond_spear": "minecraft:diamond_spear"
+   },
+   "native_order": [
+    "minecraft:netherite_ingot",
+    "minecraft:ancient_debris",
+    "minecraft:netherite_scrap",
+    "minecraft:ancient_debris",
+    "minecraft:diamond_sword",
+    "minecraft:diamond_spear",
+    "minecraft:diamond_chestplate",
+    "minecraft:diamond_helmet",
+    "minecraft:diamond_leggings",
+    "minecraft:diamond_boots",
+    "minecraft:diamond_sword",
+    "minecraft:diamond_spear",
+    "minecraft:diamond_chestplate",
+    "minecraft:diamond_helmet",
+    "minecraft:diamond_boots",
+    "minecraft:diamond_leggings",
+    "minecraft:diamond",
+    "minecraft:enchanted_golden_apple"
+   ],
+   "native_entries": [
+    {
+     "type": "minecraft:item",
+     "functions": [
+      {
+       "damage": {
+        "type": "minecraft:uniform",
+        "max": 1.0,
+        "min": 0.8
+       },
+       "function": "minecraft:set_damage"
+      },
+      {
+       "function": "minecraft:enchant_randomly",
+       "options": "#minecraft:on_random_loot"
+      }
+     ],
+     "name": "minecraft:diamond_spear",
+     "weight": 6
+    },
+    {
+     "type": "minecraft:item",
+     "name": "minecraft:diamond_spear",
+     "weight": 6
+    }
+   ]
+  },
+  {
+   "table": "minecraft:chests/desert_pyramid",
+   "pool": 0,
+   "items": [
+    "minecraft:copper_horse_armor"
+   ],
+   "present_if": {
+    "minecraft:copper_horse_armor": "minecraft:copper_horse_armor"
+   },
+   "native_order": [
+    "minecraft:diamond",
+    "minecraft:iron_ingot",
+    "minecraft:gold_ingot",
+    "minecraft:emerald",
+    "minecraft:bone",
+    "minecraft:spider_eye",
+    "minecraft:rotten_flesh",
+    "minecraft:leather",
+    "minecraft:copper_horse_armor",
+    "minecraft:iron_horse_armor",
+    "minecraft:golden_horse_armor",
+    "minecraft:diamond_horse_armor",
+    "minecraft:book",
+    "minecraft:golden_apple",
+    "minecraft:enchanted_golden_apple",
+    "<minecraft:empty>"
+   ],
+   "native_entries": [
+    {
+     "type": "minecraft:item",
+     "name": "minecraft:copper_horse_armor",
+     "weight": 15
+    }
+   ]
+  },
+  {
+   "table": "minecraft:chests/jungle_temple",
+   "pool": 0,
+   "items": [
+    "minecraft:copper_horse_armor"
+   ],
+   "present_if": {
+    "minecraft:copper_horse_armor": "minecraft:copper_horse_armor"
+   },
+   "native_order": [
+    "minecraft:diamond",
+    "minecraft:iron_ingot",
+    "minecraft:gold_ingot",
+    "minecraft:bamboo",
+    "minecraft:emerald",
+    "minecraft:bone",
+    "minecraft:rotten_flesh",
+    "minecraft:leather",
+    "minecraft:copper_horse_armor",
+    "minecraft:iron_horse_armor",
+    "minecraft:golden_horse_armor",
+    "minecraft:diamond_horse_armor",
+    "minecraft:book"
+   ],
+   "native_entries": [
+    {
+     "type": "minecraft:item",
+     "name": "minecraft:copper_horse_armor"
+    }
+   ]
+  },
+  {
+   "table": "minecraft:chests/simple_dungeon",
+   "pool": 0,
+   "items": [
+    "minecraft:copper_horse_armor"
+   ],
+   "present_if": {
+    "minecraft:copper_horse_armor": "minecraft:copper_horse_armor"
+   },
+   "native_order": [
+    "minecraft:leather",
+    "minecraft:golden_apple",
+    "minecraft:enchanted_golden_apple",
+    "minecraft:music_disc_otherside",
+    "minecraft:music_disc_13",
+    "minecraft:music_disc_cat",
+    "minecraft:name_tag",
+    "minecraft:golden_horse_armor",
+    "minecraft:copper_horse_armor",
+    "minecraft:iron_horse_armor",
+    "minecraft:diamond_horse_armor",
+    "minecraft:book"
+   ],
+   "native_entries": [
+    {
+     "type": "minecraft:item",
+     "name": "minecraft:copper_horse_armor",
+     "weight": 15
+    }
+   ]
+  },
+  {
+   "table": "minecraft:chests/stronghold_corridor",
+   "pool": 0,
+   "items": [
+    "minecraft:copper_horse_armor"
+   ],
+   "present_if": {
+    "minecraft:copper_horse_armor": "minecraft:copper_horse_armor"
+   },
+   "native_order": [
+    "minecraft:ender_pearl",
+    "minecraft:diamond",
+    "minecraft:iron_ingot",
+    "minecraft:gold_ingot",
+    "minecraft:redstone",
+    "minecraft:bread",
+    "minecraft:apple",
+    "minecraft:iron_pickaxe",
+    "minecraft:iron_sword",
+    "minecraft:iron_chestplate",
+    "minecraft:iron_helmet",
+    "minecraft:iron_leggings",
+    "minecraft:iron_boots",
+    "minecraft:golden_apple",
+    "minecraft:leather",
+    "minecraft:copper_horse_armor",
+    "minecraft:iron_horse_armor",
+    "minecraft:golden_horse_armor",
+    "minecraft:diamond_horse_armor",
+    "minecraft:music_disc_otherside",
+    "minecraft:book"
+   ],
+   "native_entries": [
+    {
+     "type": "minecraft:item",
+     "name": "minecraft:copper_horse_armor"
+    }
+   ]
+  },
+  {
+   "table": "minecraft:chests/nether_bridge",
+   "pool": 0,
+   "items": [
+    "minecraft:copper_horse_armor"
+   ],
+   "present_if": {
+    "minecraft:copper_horse_armor": "minecraft:copper_horse_armor"
+   },
+   "native_order": [
+    "minecraft:diamond",
+    "minecraft:iron_ingot",
+    "minecraft:gold_ingot",
+    "minecraft:golden_sword",
+    "minecraft:golden_chestplate",
+    "minecraft:flint_and_steel",
+    "minecraft:nether_wart",
+    "minecraft:saddle",
+    "minecraft:golden_horse_armor",
+    "minecraft:copper_horse_armor",
+    "minecraft:iron_horse_armor",
+    "minecraft:diamond_horse_armor",
+    "minecraft:obsidian"
+   ],
+   "native_entries": [
+    {
+     "type": "minecraft:item",
+     "name": "minecraft:copper_horse_armor",
+     "weight": 5
+    }
+   ]
+  },
+  {
+   "table": "minecraft:chests/end_city_treasure",
+   "pool": 0,
+   "items": [
+    "minecraft:copper_horse_armor",
+    "minecraft:diamond_spear"
+   ],
+   "present_if": {
+    "minecraft:copper_horse_armor": "minecraft:copper_horse_armor",
+    "minecraft:diamond_spear": "minecraft:diamond_spear"
+   },
+   "native_order": [
+    "minecraft:diamond",
+    "minecraft:iron_ingot",
+    "minecraft:gold_ingot",
+    "minecraft:emerald",
+    "minecraft:beetroot_seeds",
+    "minecraft:saddle",
+    "minecraft:copper_horse_armor",
+    "minecraft:iron_horse_armor",
+    "minecraft:golden_horse_armor",
+    "minecraft:diamond_horse_armor",
+    "minecraft:diamond_sword",
+    "minecraft:diamond_spear",
+    "minecraft:diamond_boots",
+    "minecraft:diamond_chestplate",
+    "minecraft:diamond_leggings",
+    "minecraft:diamond_helmet",
+    "minecraft:diamond_pickaxe",
+    "minecraft:diamond_shovel",
+    "minecraft:iron_sword",
+    "minecraft:iron_boots",
+    "minecraft:iron_chestplate",
+    "minecraft:iron_leggings",
+    "minecraft:iron_helmet",
+    "minecraft:iron_pickaxe",
+    "minecraft:iron_shovel"
+   ],
+   "native_entries": [
+    {
+     "type": "minecraft:item",
+     "name": "minecraft:copper_horse_armor"
+    },
+    {
+     "type": "minecraft:item",
+     "functions": [
+      {
+       "function": "minecraft:enchant_with_levels",
+       "levels": {
+        "type": "minecraft:uniform",
+        "max": 39.0,
+        "min": 20.0
+       },
+       "options": "#minecraft:on_random_loot"
+      }
+     ],
+     "name": "minecraft:diamond_spear",
+     "weight": 3
+    }
+   ]
+  },
+  {
+   "table": "minecraft:chests/village/village_weaponsmith",
+   "pool": 0,
+   "items": [
+    "minecraft:copper_horse_armor",
+    "minecraft:copper_spear",
+    "minecraft:iron_spear"
+   ],
+   "present_if": {
+    "minecraft:iron_spear": "minecraft:iron_spear",
+    "minecraft:copper_spear": "minecraft:copper_spear",
+    "minecraft:copper_horse_armor": "minecraft:copper_horse_armor"
+   },
+   "native_order": [
+    "minecraft:diamond",
+    "minecraft:iron_ingot",
+    "minecraft:gold_ingot",
+    "minecraft:bread",
+    "minecraft:apple",
+    "minecraft:iron_pickaxe",
+    "minecraft:iron_sword",
+    "minecraft:iron_spear",
+    "minecraft:copper_spear",
+    "minecraft:iron_chestplate",
+    "minecraft:iron_helmet",
+    "minecraft:iron_leggings",
+    "minecraft:iron_boots",
+    "minecraft:obsidian",
+    "minecraft:oak_sapling",
+    "minecraft:saddle",
+    "minecraft:copper_horse_armor",
+    "minecraft:iron_horse_armor",
+    "minecraft:golden_horse_armor",
+    "minecraft:diamond_horse_armor"
+   ],
+   "native_entries": [
+    {
+     "type": "minecraft:item",
+     "name": "minecraft:iron_spear",
+     "weight": 5
+    },
+    {
+     "type": "minecraft:item",
+     "name": "minecraft:copper_spear",
+     "weight": 7
+    },
+    {
+     "type": "minecraft:item",
+     "name": "minecraft:copper_horse_armor"
+    }
+   ]
+  },
+  {
+   "table": "minecraft:chests/underwater_ruin_big",
+   "pool": 0,
+   "items": [
+    "minecraft:iron_spear",
+    "minecraft:stone_spear"
+   ],
+   "present_if": {
+    "minecraft:iron_spear": "minecraft:iron_spear",
+    "minecraft:stone_spear": "minecraft:iron_spear"
+   },
+   "native_order": [
+    "minecraft:coal",
+    "minecraft:gold_nugget",
+    "minecraft:emerald",
+    "minecraft:stone_spear",
+    "minecraft:wheat"
+   ],
+   "native_entries": [
+    {
+     "type": "minecraft:item",
+     "name": "minecraft:stone_spear",
+     "weight": 2
+    }
+   ]
+  },
+  {
+   "table": "minecraft:chests/underwater_ruin_small",
+   "pool": 0,
+   "items": [
+    "minecraft:iron_spear",
+    "minecraft:stone_spear"
+   ],
+   "present_if": {
+    "minecraft:iron_spear": "minecraft:iron_spear",
+    "minecraft:stone_spear": "minecraft:iron_spear"
+   },
+   "native_order": [
+    "minecraft:coal",
+    "minecraft:stone_axe",
+    "minecraft:stone_spear",
+    "minecraft:rotten_flesh",
+    "minecraft:emerald",
+    "minecraft:wheat"
+   ],
+   "native_entries": [
+    {
+     "type": "minecraft:item",
+     "name": "minecraft:stone_spear",
+     "weight": 2
+    }
+   ]
+  }
+ ],
+ "insert_pools": [
+  {
+   "table": "minecraft:entities/zombie",
+   "index": 1,
+   "pool": {
+    "rolls": 1.0,
+    "bonus_rolls": 0.0,
+    "entries": [
+     {
+      "type": "minecraft:item",
+      "name": "minecraft:red_mushroom",
+      "conditions": [
+       {
+        "condition": "minecraft:entity_properties",
+        "entity": "this",
+        "predicate": {
+         "vehicle": {
+          "type": "minecraft:zombie_horse"
+         }
+        }
+       }
+      ],
+      "functions": [
+       {
+        "function": "minecraft:set_count",
+        "count": {
+         "type": "minecraft:uniform",
+         "min": 0.0,
+         "max": 1.0
+        },
+        "add": false
+       },
+       {
+        "count": {
+         "type": "minecraft:uniform",
+         "min": 0.0,
+         "max": 1.0
+        },
+        "enchantment": "minecraft:looting",
+        "function": "minecraft:enchanted_count_increase"
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "table": "minecraft:entities/husk",
+   "index": 1,
+   "pool": {
+    "rolls": 1.0,
+    "bonus_rolls": 0.0,
+    "entries": [
+     {
+      "type": "minecraft:item",
+      "name": "minecraft:rabbit_foot",
+      "conditions": [
+       {
+        "condition": "minecraft:entity_properties",
+        "entity": "this",
+        "predicate": {
+         "vehicle": {
+          "type": "minecraft:camel_husk"
+         }
+        }
+       }
+      ],
+      "functions": [
+       {
+        "function": "minecraft:set_count",
+        "count": {
+         "type": "minecraft:uniform",
+         "min": 0.0,
+         "max": 1.0
+        },
+        "add": false
+       },
+       {
+        "count": {
+         "type": "minecraft:uniform",
+         "min": 0.0,
+         "max": 1.0
+        },
+        "enchantment": "minecraft:looting",
+        "function": "minecraft:enchanted_count_increase"
+       }
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "replace_pools": [
+  {
+   "table": "minecraft:entities/zombie_horse",
+   "index": 0,
+   "pool": {
+    "rolls": 1.0,
+    "bonus_rolls": 0.0,
+    "entries": [
+     {
+      "type": "minecraft:item",
+      "name": "minecraft:rotten_flesh",
+      "functions": [
+       {
+        "function": "minecraft:set_count",
+        "count": {
+         "type": "minecraft:uniform",
+         "min": 2.0,
+         "max": 3.0
+        },
+        "add": false
+       },
+       {
+        "count": {
+         "type": "minecraft:uniform",
+         "min": 0.0,
+         "max": 1.0
+        },
+        "enchantment": "minecraft:looting",
+        "function": "minecraft:enchanted_count_increase"
+       }
+      ]
+     }
+    ]
+   }
+  }
+ ]
+}

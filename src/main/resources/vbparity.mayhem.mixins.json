@@ -1,0 +1,52 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.coolfreeze23.vbparity.mayhem.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "AbstractHorseMixin",
+    "AbstractHorseRiderMixin",
+    "AbstractMinecartSpeedMixin",
+    "AbstractNautilusMixin",
+    "AgeableMobMixin",
+    "AttackRangeMixin",
+    "CamelHuskMixin",
+    "ChargeAttackMixin",
+    "EntityComputeSpeedMixin",
+    "LivingEntitySpearMixin",
+    "LivingEntityUseVibrationMixin",
+    "MeleeAttackAccessor",
+    "MeleeAttackMixin",
+    "MobAccessor",
+    "MobIntegrationsMixin",
+    "MobInteractPersistenceMixin",
+    "MobSpawnsMixin",
+    "MobSpearDamageMixin",
+    "ModDataComponentsMixin",
+    "NautilusMixin",
+    "ParchedMixin",
+    "ParrotAccessor",
+    "PiercingWeaponMixin",
+    "PlayerInteractPersistenceMixin",
+    "PlayerSpearMixin",
+    "ProjectileUtilsMixin",
+    "ServerPlayerKnownSpeedMixin",
+    "SpearMobsTriggerMixin",
+    "VanillaDynamicRecipesMixin",
+    "ZombieHorseMixin",
+    "ZombieNautilusAiMixin",
+    "ZombieNautilusMixin",
+    "ZombieSpearMixin"
+  ],
+  "client": [
+    "client.GameRendererSpearPickMixin",
+    "client.HumanoidModelSpearMixin",
+    "client.HumanoidModelStabMixin",
+    "client.ItemInHandRendererSpearMixin",
+    "client.LocalPlayerUseSpeedMixin",
+    "client.SpearAnimationsMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

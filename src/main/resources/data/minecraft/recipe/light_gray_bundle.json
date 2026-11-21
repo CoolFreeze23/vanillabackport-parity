@@ -1,0 +1,19 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "vbparity:dyeable_bundles"
+    }
+  ],
+  "type": "minecraft:crafting_transmute",
+  "category": "equipment",
+  "group": "bundle_dye",
+  "input": {
+    "tag": "minecraft:bundles"
+  },
+  "material": {
+    "item": "minecraft:light_gray_dye"
+  },
+  "result": {
+    "id": "minecraft:light_gray_bundle"
+  }
+}

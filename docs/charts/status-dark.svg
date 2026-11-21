@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="524" viewBox="0 0 820 524" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" role="img">
+<rect width="820" height="524" rx="8" fill="#0d1117"/>
+<text x="24.0" y="32.0" font-size="17" fill="#f0efec" text-anchor="start" font-weight="600">What happened to every finding</text>
+<rect x="24" y="47" width="11" height="11" rx="2" fill="#0ca30c"/>
+<text x="41.0" y="56.0" font-size="12" fill="#c3c2b7" text-anchor="start" font-weight="normal">Fixed</text>
+<rect x="99.0" y="47" width="11" height="11" rx="2" fill="#fab219"/>
+<text x="116.0" y="56.0" font-size="12" fill="#c3c2b7" text-anchor="start" font-weight="normal">Partly fixed</text>
+<rect x="224.4" y="47" width="11" height="11" rx="2" fill="#ec835a"/>
+<text x="241.4" y="56.0" font-size="12" fill="#c3c2b7" text-anchor="start" font-weight="normal">1.21.1 engine limit</text>
+<rect x="400.20000000000005" y="47" width="11" height="11" rx="2" fill="#d03b3b"/>
+<text x="417.2" y="56.0" font-size="12" fill="#c3c2b7" text-anchor="start" font-weight="normal">Not fixed</text>
+<rect x="504.00000000000006" y="47" width="11" height="11" rx="2" fill="#5d5c57"/>
+<text x="521.0" y="56.0" font-size="12" fill="#c3c2b7" text-anchor="start" font-weight="normal">Audit was wrong</text>
+<text x="218.0" y="89.0" font-size="13" fill="#c3c2b7" text-anchor="end" font-weight="normal">The Garden Awakens</text>
+<rect x="230.0" y="77" width="263.8" height="18" rx="3" fill="#0ca30c"><title>The Garden Awakens: 23 fixed</title></rect>
+<rect x="495.8" y="77" width="9.6" height="18" rx="3" fill="#5d5c57"><title>The Garden Awakens: 1 wrong</title></rect>
+<text x="513.3" y="90.0" font-size="12" fill="#c3c2b7" text-anchor="start" font-weight="normal">23/24</text>
+<text x="218.0" y="119.0" font-size="13" fill="#c3c2b7" text-anchor="end" font-weight="normal">Chase the Skies</text>
+<rect x="230.0" y="107" width="494.9" height="18" rx="3" fill="#0ca30c"><title>Chase the Skies: 43 fixed</title></rect>
+<rect x="726.9" y="107" width="21.1" height="18" rx="3" fill="#5d5c57"><title>Chase the Skies: 2 wrong</title></rect>
+<text x="756.0" y="120.0" font-size="12" fill="#c3c2b7" text-anchor="start" font-weight="normal">43/45</text>
+<text x="218.0" y="149.0" font-size="13" fill="#c3c2b7" text-anchor="end" font-weight="normal">The Copper Age</text>
+<rect x="230.0" y="137" width="379.3" height="18" rx="3" fill="#0ca30c"><title>The Copper Age: 33 fixed</title></rect>
+<text x="617.3" y="150.0" font-size="12" fill="#c3c2b7" text-anchor="start" font-weight="normal">33/33</text>
+<text x="218.0" y="179.0" font-size="13" fill="#c3c2b7" text-anchor="end" font-weight="normal">Mounts of Mayhem</text>
+<rect x="230.0" y="167" width="471.8" height="18" rx="3" fill="#0ca30c"><title>Mounts of Mayhem: 41 fixed</title></rect>
+<rect x="703.8" y="167" width="21.1" height="18" rx="3" fill="#5d5c57"><title>Mounts of Mayhem: 2 wrong</title></rect>
+<text x="732.9" y="180.0" font-size="12" fill="#c3c2b7" text-anchor="start" font-weight="normal">41/43</text>
+<text x="218.0" y="209.0" font-size="13" fill="#c3c2b7" text-anchor="end" font-weight="normal">Mob &amp; sound variants</text>
+<rect x="230.0" y="197" width="240.7" height="18" rx="3" fill="#0ca30c"><title>Mob &amp; sound variants: 21 fixed</title></rect>
+<rect x="472.7" y="197" width="9.6" height="18" rx="3" fill="#fab219"><title>Mob &amp; sound variants: 1 partial</title></rect>
+<text x="490.2" y="210.0" font-size="12" fill="#c3c2b7" text-anchor="start" font-weight="normal">21/22</text>
+<text x="218.0" y="239.0" font-size="13" fill="#c3c2b7" text-anchor="end" font-weight="normal">Chaos Cubed</text>
+<rect x="230.0" y="227" width="506.4" height="18" rx="3" fill="#0ca30c"><title>Chaos Cubed: 44 fixed</title></rect>
+<rect x="738.4" y="227" width="9.6" height="18" rx="3" fill="#ec835a"><title>Chaos Cubed: 1 engine limit</title></rect>
+<text x="756.0" y="240.0" font-size="12" fill="#c3c2b7" text-anchor="start" font-weight="normal">44/45</text>
+<text x="218.0" y="269.0" font-size="13" fill="#c3c2b7" text-anchor="end" font-weight="normal">Spring to Life flora</text>
+<rect x="230.0" y="257" width="229.1" height="18" rx="3" fill="#0ca30c"><title>Spring to Life flora: 20 fixed</title></rect>
+<text x="467.1" y="270.0" font-size="12" fill="#c3c2b7" text-anchor="start" font-weight="normal">20/20</text>
+<text x="218.0" y="299.0" font-size="13" fill="#c3c2b7" text-anchor="end" font-weight="normal">Wilderness Bound</text>
+<rect x="230.0" y="287" width="425.6" height="18" rx="3" fill="#0ca30c"><title>Wilderness Bound: 37 fixed</title></rect>
+<rect x="657.6" y="287" width="21.1" height="18" rx="3" fill="#fab219"><title>Wilderness Bound: 2 partial</title></rect>
+<text x="686.7" y="300.0" font-size="12" fill="#c3c2b7" text-anchor="start" font-weight="normal">37/39</text>
+<text x="218.0" y="329.0" font-size="13" fill="#c3c2b7" text-anchor="end" font-weight="normal">Bundles, music, boats, misc</text>
+<rect x="230.0" y="317" width="425.6" height="18" rx="3" fill="#0ca30c"><title>Bundles, music, boats, misc: 37 fixed</title></rect>
+<text x="663.6" y="330.0" font-size="12" fill="#c3c2b7" text-anchor="start" font-weight="normal">37/37</text>
+<text x="218.0" y="359.0" font-size="13" fill="#c3c2b7" text-anchor="end" font-weight="normal">Technical: spawning</text>
+<rect x="230.0" y="347" width="148.2" height="18" rx="3" fill="#0ca30c"><title>Technical: spawning: 13 fixed</title></rect>
+<rect x="380.2" y="347" width="9.6" height="18" rx="3" fill="#fab219"><title>Technical: spawning: 1 partial</title></rect>
+<rect x="391.8" y="347" width="21.1" height="18" rx="3" fill="#ec835a"><title>Technical: spawning: 2 engine limit</title></rect>
+<text x="420.9" y="360.0" font-size="12" fill="#c3c2b7" text-anchor="start" font-weight="normal">13/16</text>
+<text x="218.0" y="389.0" font-size="13" fill="#c3c2b7" text-anchor="end" font-weight="normal">Technical: mob AI</text>
+<rect x="230.0" y="377" width="321.6" height="18" rx="3" fill="#0ca30c"><title>Technical: mob AI: 28 fixed</title></rect>
+<text x="559.6" y="390.0" font-size="12" fill="#c3c2b7" text-anchor="start" font-weight="normal">28/28</text>
+<text x="218.0" y="419.0" font-size="13" fill="#c3c2b7" text-anchor="end" font-weight="normal">Technical: physics &amp; combat</text>
+<rect x="230.0" y="407" width="229.1" height="18" rx="3" fill="#0ca30c"><title>Technical: physics &amp; combat: 20 fixed</title></rect>
+<rect x="461.1" y="407" width="21.1" height="18" rx="3" fill="#ec835a"><title>Technical: physics &amp; combat: 2 engine limit</title></rect>
+<text x="490.2" y="420.0" font-size="12" fill="#c3c2b7" text-anchor="start" font-weight="normal">20/22</text>
+<text x="218.0" y="449.0" font-size="13" fill="#c3c2b7" text-anchor="end" font-weight="normal">Technical: farm outputs</text>
+<rect x="230.0" y="437" width="90.4" height="18" rx="3" fill="#0ca30c"><title>Technical: farm outputs: 8 fixed</title></rect>
+<rect x="322.4" y="437" width="21.1" height="18" rx="3" fill="#ec835a"><title>Technical: farm outputs: 2 engine limit</title></rect>
+<text x="351.6" y="450.0" font-size="12" fill="#c3c2b7" text-anchor="start" font-weight="normal">8/10</text>
+<text x="218.0" y="479.0" font-size="13" fill="#c3c2b7" text-anchor="end" font-weight="normal">Technical: blocks &amp; redstone</text>
+<rect x="230.0" y="467" width="136.7" height="18" rx="3" fill="#0ca30c"><title>Technical: blocks &amp; redstone: 12 fixed</title></rect>
+<rect x="368.7" y="467" width="9.6" height="18" rx="3" fill="#ec835a"><title>Technical: blocks &amp; redstone: 1 engine limit</title></rect>
+<rect x="380.2" y="467" width="9.6" height="18" rx="3" fill="#d03b3b"><title>Technical: blocks &amp; redstone: 1 not fixed</title></rect>
+<text x="397.8" y="480.0" font-size="12" fill="#c3c2b7" text-anchor="start" font-weight="normal">12/14</text>
+<text x="24.0" y="514.0" font-size="11" fill="#8f8e86" text-anchor="start" font-weight="normal">380 of 398 findings fixed. Numbers are fixed / total findings per area.</text>
+</svg>

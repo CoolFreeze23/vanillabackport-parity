@@ -1,0 +1,337 @@
+id,area,group,metric,unit,vb,native,addon,status,source
+garden-001,garden,Mob AI,Creaking player sensing range (freeze/deactivate/target),blocks,16,32,32,fixed,GARDEN-02
+garden-002,garden,Blocks & redstone,Max resin faces placed per spread call,count,64,1,1,fixed,GARDEN-01
+garden-003,garden,Sounds,Creaking voice sound pitch (min),pitch,1.0,0.8,0.8,fixed,GARDEN-08
+garden-004,garden,Sounds,Creaking voice sound pitch (max),pitch,1.0,1.2,1.2,fixed,GARDEN-08
+garden-005,garden,Sounds,Creaking attack sound pitch (min),pitch,1.0,0.8,0.8,fixed,GARDEN-09
+garden-006,garden,Sounds,Creaking attack sound pitch (max),pitch,1.0,1.2,1.2,fixed,GARDEN-09
+garden-007,garden,Misc,Creaking tear-down particle max lifetime,ticks,40,10,10,fixed,GARDEN-10
+garden-008,garden,Worldgen,Pale moss patch: bare moss carpet share,%,24.3,0,0,fixed,GARDEN-19
+garden-009,garden,Worldgen,Pale moss patch: short grass share,%,24.3,41.7,41.7,fixed,GARDEN-19
+garden-010,garden,Worldgen,Pale moss patch: tall grass share,%,9.7,16.7,16.7,fixed,GARDEN-19
+ghast-001,ghast,Drops & outputs,Harness drop chance when a harnessed happy ghast dies,%,8.5,100,100,fixed,GHAST-01
+ghast-002,ghast,Sounds,Harness equip sound volume,volume,0.5,1.0,1.0,fixed,GHAST-03
+ghast-003,ghast,Misc,Game events fired when a harness is equipped,count,2,1,1,fixed,GHAST-03
+ghast-004,ghast,Drops & outputs,Height of the dropped harness after shearing,blocks,4.5,4.0,4.0,fixed,GHAST-05
+ghast-005,ghast,Entity size,Happy ghast seat distance from centre,blocks,1.8,1.7,1.7,fixed,GHAST-07
+ghast-006,ghast,Entity size,Ghastling eye height,blocks,0.6175,0.46875,0.46875,fixed,GHAST-10
+ghast-007,ghast,Mob AI,Ghastling max path length,blocks,16,48,48,fixed,GHAST-11
+ghast-008,ghast,Mob AI,Ghastling path-finder node budget (default follow range),count,256,768,768,fixed,GHAST-11
+ghast-009,ghast,Mob AI,Ghastling tempt range,blocks,10,16,16,fixed,GHAST-12
+ghast-010,ghast,Mob AI,Ghastling stop distance from a tempting player,blocks,5,3,3,fixed,GHAST-13
+ghast-011,ghast,Mob AI,Ghastling adult-follow minimum distance,blocks,5,3,3,fixed,GHAST-13
+ghast-012,ghast,Mob AI,Ghastling walk-target height above an adult ghast's feet,blocks,0,2.6,2.6,fixed,GHAST-14
+ghast-013,ghast,Misc,Fast-heal cloud layer bottom (overworld),blocks,192,192.33,192.33,fixed,GHAST-17
+ghast-014,ghast,Misc,Fast-heal cloud layer top (overworld),blocks,196,196.33,196.33,fixed,GHAST-17
+ghast-015,ghast,Misc,Riding camera distance on a scale-0.5 ghast,blocks,8,4,4,fixed,GHAST-18
+ghast-016,ghast,Misc,Riding camera distance for a scale-3 player,blocks,8,12,12,fixed,GHAST-18
+ghast-017,ghast,Entity size,Adult happy ghast shadow radius,blocks,1.5,2.0,2.0,fixed,GHAST-19
+ghast-018,ghast,Entity size,Ghastling shadow radius,blocks,0.356,0.475,0.475,fixed,GHAST-19
+ghast-019,ghast,Entity size,Body scale of unharnessed ghasts after a harnessed one renders,%,93.75,100,100,fixed,GHAST-20
+ghast-020,ghast,Worldgen,Dried ghast chance in nether fossils outside nether biomes,%,0,50,50,fixed,GHAST-31
+ghast-021,ghast,Mob AI,Fence tie search half-size around a fence,blocks,7,16,16,fixed,GHAST-34
+ghast-022,ghast,Misc,Lead ropes on a leashed llama,count,4,1,1,fixed,GHAST-35
+ghast-023,ghast,Entity size,Zombie horse lead point width factor,x,0.23,0.18,0.18,fixed,GHAST-36;MAYHEM-26
+ghast-024,ghast,Entity size,Zombie horse lead point length factor,x,0.52,0.41,0.41,fixed,GHAST-36;MAYHEM-26
+ghast-025,ghast,Entity size,Zombie horse lead point height factor,x,0.87,0.73,0.73,fixed,GHAST-36;MAYHEM-26
+ghast-026,ghast,Misc,Leads drawn per connection on ordinary mobs,count,2,1,1,fixed,GHAST-40
+ghast-027,ghast,Spawning,Zombie nautilus jockey chance for natural trident drowned,%,0,50,50,fixed,GHAST-42
+ghast-028,ghast,Spawning,Camel husk jockey chance for the first husk of a pack,%,0,10,10,fixed,GHAST-43
+copper-001,copper,Mob AI,Copper golem max path length,blocks,16,48,48,fixed,COPPER-01
+copper-002,copper,Mob AI,Copper golem pathfinder node budget,count,256,768,768,fixed,COPPER-01
+copper-003,copper,Mob AI,Iron golem flower-offer rolls per tick (villager and copper golem nearby),count,2,1,1,fixed,COPPER-22
+copper-004,copper,Blocks & redstone,Golem statue comparator signal (standing),signal,0,1,1,fixed,COPPER-12
+copper-005,copper,Blocks & redstone,Golem statue comparator signal (sitting),signal,1,2,2,fixed,COPPER-12
+copper-006,copper,Blocks & redstone,Golem statue comparator signal (running),signal,2,3,3,fixed,COPPER-12
+copper-007,copper,Blocks & redstone,Golem statue comparator signal (star),signal,3,4,4,fixed,COPPER-12
+copper-008,copper,Blocks & redstone,Shelf sides that feed a comparator,count,4,1,1,fixed,COPPER-13
+copper-009,copper,Blocks & redstone,Electric spark bursts per lightning-rod strike,count,2,1,1,fixed,COPPER-10
+copper-010,copper,Blocks & redstone,Copper-cleaning walks when a waxed rod is struck (min),count,0,3,3,fixed,COPPER-09
+copper-011,copper,Blocks & redstone,Copper-cleaning walks when a waxed rod is struck (max),count,0,5,5,fixed,COPPER-09
+copper-012,copper,Misc,Overworld-wood shelf fuel time,ticks,0,300,300,fixed,COPPER-15
+copper-013,copper,Misc,Poplar shelf fuel time (26.3),ticks,0,300,300,fixed,COPPER-15
+copper-014,copper,Spawning,Mob armor tier bump chance per roll,%,9.5,10.87,10.87,fixed,COPPER-19
+copper-015,copper,Spawning,Mob armor tier share: leather,%,37.1,23.6,23.6,fixed,COPPER-19
+copper-016,copper,Spawning,Mob armor tier share: copper,%,19.5,32.2,32.2,fixed,COPPER-19
+copper-017,copper,Spawning,Mob armor tier share: gold,%,29.2,33.3,33.3,fixed,COPPER-19
+copper-018,copper,Spawning,Mob armor tier share: chainmail,%,12.9,9.7,9.7,fixed,COPPER-19
+copper-019,copper,Spawning,Mob armor tier share: iron,%,1.3,1.1,1.1,fixed,COPPER-19
+copper-020,copper,Combat,Copper spear dismount speed threshold,speed,9.0,12.0,12.0,fixed,COPPER-21
+copper-021,copper,Sounds,Wax-on sounds per golem waxing,count,2,1,1,fixed,COPPER-07
+copper-022,copper,Drops & outputs,Honeycomb crafting recipes for copper bars/chains/lanterns,count,0,12,12,fixed,COPPER-16
+copper-023,copper,Misc,Wax On advancement block entries,count,36,60,60,fixed,COPPER-17
+copper-024,copper,Misc,Wax Off advancement block entries,count,36,60,60,fixed,COPPER-17
+copper-025,copper,Entity size,Antenna block height above native position,blocks,0.05,0,0,fixed,COPPER-25
+copper-026,copper,Misc,Shelf item distance out from block centre,blocks,0.27,0.25,0.25,fixed,COPPER-27
+mayhem-001,mayhem,Combat,"Spear dismount min speed, stone",speed,10,13,13,fixed,MAYHEM-01
+mayhem-002,mayhem,Combat,"Spear dismount min speed, copper",speed,9,12,12,fixed,MAYHEM-01
+mayhem-003,mayhem,Combat,"Spear dismount min speed, iron",speed,8,11,11,fixed,MAYHEM-01
+mayhem-004,mayhem,Combat,"Spear dismount min speed, golden",speed,10,13,13,fixed,MAYHEM-01
+mayhem-005,mayhem,Combat,"Spear dismount min speed, diamond",speed,7.5,10,10,fixed,MAYHEM-01
+mayhem-006,mayhem,Combat,"Spear dismount min speed, netherite",speed,7,9,9,fixed,MAYHEM-01
+mayhem-007,mayhem,Combat,Default hurt knockback added to a damaging spear hit,blocks,0.4,0,0,fixed,MAYHEM-02
+mayhem-008,mayhem,Spawning,"Zombie spawn weapon share, iron spear",%,0,16.7,16.7,fixed,MAYHEM-07
+mayhem-009,mayhem,Spawning,"Zombie spawn weapon share, iron shovel",%,83.3,66.7,66.7,fixed,MAYHEM-07
+mayhem-010,mayhem,Mob AI,SpearUseGoals on a zombified piglin,count,2,1,1,fixed,MAYHEM-08
+mayhem-011,mayhem,Mob AI,SpearUseGoals on a drowned,count,1,0,0,fixed,MAYHEM-08
+mayhem-012,mayhem,Mob AI,Nautilus max charge distance,blocks,11,12,12,fixed,MAYHEM-12
+mayhem-013,mayhem,Mob AI,Nautilus target detection distance during a charge,blocks,12,11,11,fixed,MAYHEM-12
+mayhem-014,mayhem,Combat,Charger vertical speed multiplier after a charge hit,x,4,1,1,fixed,MAYHEM-13
+mayhem-015,mayhem,Mob AI,Zombie nautilus charge speed,x,0.6,0.5,0.5,fixed,MAYHEM-14
+mayhem-016,mayhem,Mob AI,Zombie nautilus tempted speed,x,1.3,0.9,0.9,fixed,MAYHEM-15
+mayhem-017,mayhem,Sounds,Nautilus dash/eat sound pitch random spread,pitch,0,0.2,0.2,fixed,MAYHEM-16
+mayhem-018,mayhem,Misc,Sculk frequency of the nautilus dash,count,6,4,4,fixed,MAYHEM-17
+mayhem-019,mayhem,Sounds,Nautilus saddle equip volume,volume,0.5,1.0,1.0,fixed,MAYHEM-18
+mayhem-020,mayhem,Sounds,Nautilus armour equip volume,volume,0.5,1.0,1.0,fixed,MAYHEM-18
+mayhem-021,mayhem,Sounds,Camel husk footstep effective volume,volume,0.3,0.12,0.12,fixed,MAYHEM-22
+mayhem-022,mayhem,Sounds,Camel husk saddle volume,volume,0.5,1.0,1.0,fixed,MAYHEM-23
+mayhem-023,mayhem,Entity size,Baby zombie horse scale,x,0.5,0.7,0.7,fixed,MAYHEM-25
+mayhem-024,mayhem,Entity size,Baby zombie horse width,blocks,0.7,0.98,0.98,fixed,MAYHEM-25
+mayhem-025,mayhem,Entity size,Baby zombie horse height,blocks,0.8,1.12,1.12,fixed,MAYHEM-25
+mayhem-026,mayhem,Entity size,Baby zombie horse seat drop below top (before scale),blocks,0.03125,0.25,0.25,fixed,MAYHEM-25
+mayhem-027,mayhem,Misc,Zombie horse speed divisor,x,42.16,42.15999984741211,42.15999984741211,fixed,MAYHEM-27
+mayhem-028,mayhem,Misc,Mobs added to Monsters Hunted (kill_all_mobs),count,0,4,4,fixed,MAYHEM-31
+mayhem-029,mayhem,Combat,Ticks a stopped player keeps charge speed (max),ticks,20,1,1,fixed,MAYHEM-32
+mayhem-030,mayhem,Combat,Minecart known-speed lag,ticks,0,1,1,fixed,MAYHEM-33
+mayhem-031,mayhem,Misc,First-person spear swap dip scale,x,1.0,1.95,1.95,fixed,MAYHEM-37
+mayhem-032,mayhem,Combat,attack_range default max_reach,blocks,0,3,3,fixed,MAYHEM-39
+mayhem-033,mayhem,Combat,attack_range default max_creative_reach,blocks,0,5,5,fixed,MAYHEM-39
+mayhem-034,mayhem,Combat,attack_range default hitbox_margin,blocks,0,0.3,0.3,fixed,MAYHEM-39
+mayhem-035,mayhem,Drops & outputs,Spear/nautilus armour nugget blasting time,ticks,200,100,100,fixed,MAYHEM-42
+mayhem-036,mayhem,Misc,Transparent hole pixels in nautilus textures,count,16,0,0,fixed,MAYHEM-43
+variants-001,variants,Entity size,Baby chicken width,blocks,0.2,0.3,0.3,fixed,VARIANTS-13
+variants-002,variants,Entity size,Baby chicken height,blocks,0.35,0.4,0.4,fixed,VARIANTS-13
+variants-003,variants,Entity size,Baby chicken eye height,blocks,0.2975,0.28125,0.28125,fixed,VARIANTS-13
+variants-004,variants,Entity size,Baby chicken passenger attachment height,blocks,0.35,0.375,0.375,fixed,VARIANTS-13
+variants-005,variants,Entity size,Baby cow eye height,blocks,0.665,0.69,0.69,fixed,VARIANTS-13
+variants-006,variants,Entity size,Baby cow passenger attachment height,blocks,0.684375,0.75,0.75,fixed,VARIANTS-13
+variants-007,variants,Entity size,Baby pig eye height,blocks,0.3825,0.40625,0.40625,fixed,VARIANTS-13
+variants-008,variants,Entity size,Baby pig passenger attachment height,blocks,0.434375,0.5,0.5,fixed,VARIANTS-13
+variants-009,variants,Entity size,Baby sheep eye height,blocks,0.6175,0.65625,0.65625,fixed,VARIANTS-13
+variants-010,variants,Entity size,Baby sheep passenger attachment height,blocks,0.61875,0.5625,0.5625,fixed,VARIANTS-13
+variants-011,variants,Entity size,Baby wolf eye height,blocks,0.34,0.34375,0.34375,fixed,VARIANTS-13
+variants-012,variants,Entity size,Baby wolf passenger attachment height,blocks,0.409375,0.4375,0.4375,fixed,VARIANTS-13
+variants-013,variants,Entity size,Baby cat eye height,blocks,0.175,0.34375,0.34375,fixed,VARIANTS-13
+variants-014,variants,Entity size,Baby cat passenger attachment height,blocks,0.25625,0.3125,0.3125,fixed,VARIANTS-13
+variants-015,variants,Sounds,Spawned cows with moody sounds,%,0,50,50,fixed,VARIANTS-03
+variants-016,variants,Sounds,Spawned pigs with big sounds,%,0,33.3,33.3,fixed,VARIANTS-04
+variants-017,variants,Sounds,Spawned pigs with mini sounds,%,0,33.3,33.3,fixed,VARIANTS-04
+variants-018,variants,Sounds,Spawned chickens with picky sounds,%,0,50,50,fixed,VARIANTS-05
+variants-019,variants,Sounds,Spawned cats with royal sounds,%,0,50,50,fixed,VARIANTS-06
+variants-020,variants,Sounds,Puppies using the baby wolf sound set,%,0,100,100,fixed,VARIANTS-02
+variants-021,variants,Sounds,Piglets using the baby pig sound set,%,0,100,100,fixed,VARIANTS-04
+variants-022,variants,Sounds,Chicks using the baby chicken sound set,%,0,100,100,fixed,VARIANTS-05
+variants-023,variants,Sounds,Kittens using the baby cat sound set,%,0,100,100,fixed,VARIANTS-06
+variants-024,variants,Spawning,"Stony peaks cows, pigs and chickens spawning cold",%,50,100,100,fixed,VARIANTS-07
+variants-025,variants,Spawning,"Stony shore cows, pigs and chickens spawning cold",%,100,0,0,fixed,VARIANTS-07
+variants-026,variants,Spawning,"Mushroom fields cows, pigs and chickens spawning warm",%,100,0,0,fixed,VARIANTS-07
+variants-027,variants,Spawning,Extra random draws per spawn variant pick,count,1,0,0,fixed,VARIANTS-20
+sulfur-001,sulfur,Entity size,Split: 2nd baby z offset (size-2 cube),blocks,0,-0.245,-0.245,fixed,SULFUR-02
+sulfur-002,sulfur,Entity size,Group-spawned baby cube hitbox,blocks,0.98,0.49,0.49,fixed,SULFUR-03
+sulfur-003,sulfur,Entity size,Group-spawned baby cube health,hp,8,4,4,fixed,SULFUR-03
+sulfur-004,sulfur,Combat,Second knockback impulse on sprint hit (block-holding cube),x,1,0.125,0.125,fixed,SULFUR-04
+sulfur-005,sulfur,Combat,Second knockback impulse with Knockback II sword,x,1,0.375,0.375,fixed,SULFUR-04
+sulfur-006,sulfur,Sounds,Fuse-prime sound volume (size-2 cube),volume,1.0,0.8,0.8,fixed,SULFUR-05
+sulfur-007,sulfur,Sounds,Baby eat sound volume,volume,1.0,0.4,0.4,fixed,SULFUR-05
+sulfur-008,sulfur,Drops & outputs,Ejected/sheared block drop height (size-2 cube),blocks,1.47,0.98,0.98,fixed,SULFUR-07
+sulfur-009,sulfur,Misc,Bounce restitution on slime (regular cube),x,0.5,1.0,1.0,fixed,SULFUR-13
+sulfur-010,sulfur,Misc,Bounce restitution on slime (sticky cube),x,0,1.0,1.0,fixed,SULFUR-13
+sulfur-011,sulfur,Misc,Bounce restitution on bed (regular cube),x,0.5,0.75,0.75,fixed,SULFUR-13
+sulfur-012,sulfur,Misc,Floor-bounce ground-friction factor (regular cube on stone),x,0.88,1.0,1.0,fixed,SULFUR-13
+sulfur-013,sulfur,Sounds,Sulfur building blocks playing potent-sulfur sounds,count,13,0,0,fixed,SULFUR-19
+sulfur-014,sulfur,Blocks & redstone,Sulfur spike growth search length,blocks,7,2,2,fixed,SULFUR-21
+sulfur-015,sulfur,Blocks & redstone,Stalagmite growth floor scan depth,blocks,1,10,10,fixed,SULFUR-22
+sulfur-016,sulfur,Sounds,Continuous-geyser start sound clips,count,0,6,6,fixed,SULFUR-27
+sulfur-017,sulfur,Sounds,Geyser eruption_active volume,volume,1.0,2.0,2.0,fixed,SULFUR-28
+sulfur-018,sulfur,Sounds,Geyser eruption_active hearing range,blocks,16,32,32,fixed,SULFUR-28
+sulfur-019,sulfur,Sounds,Sulfur/potent sulfur/cinnabar fall sounds without subtitle,count,3,0,0,fixed,SULFUR-29
+sulfur-020,sulfur,Sounds,Dedicated sulfur spike landing clips,count,0,7,7,fixed,SULFUR-31
+sulfur-021,sulfur,Misc,Geyser base particle burst impulse (1 water block),x,2.75,1.75,1.75,fixed,SULFUR-33
+sulfur-022,sulfur,Misc,Geyser poof particle burst impulse (1 water block),x,3.25,2.25,2.25,fixed,SULFUR-33
+sulfur-023,sulfur,Misc,Geyser base particle burst impulse (4 water blocks),x,5.75,2.5,2.5,fixed,SULFUR-33
+sulfur-024,sulfur,Misc,Sulfur bubble max initial upward speed,blocks/tick,0.28,0,0,fixed,SULFUR-34
+sulfur-025,sulfur,Misc,Sulfur cube goo particle speed,x,0.1,1,1,fixed,SULFUR-35
+sulfur-026,sulfur,Misc,Invisible cube ghost opacity for spectators/teammates,%,0,15,15,fixed,SULFUR-37
+sulfur-027,sulfur,Spawning,Sulfur caves zombie villager spawn weight,weight,1,5,5,fixed,SULFUR-41
+sulfur-028,sulfur,Spawning,Sulfur caves zombie villager spawn share,%,0.33,1.61,1.61,fixed,SULFUR-41
+sulfur-029,sulfur,Spawning,Sulfur caves sulfur cube spawn share,%,32.57,32.15,32.15,fixed,SULFUR-41
+flora-001,flora,Misc,Max light level for firefly particles at night,light level,15,13,13,fixed,FLORA-01
+flora-002,flora,Sounds,Sand idle sound chance per animate tick,%,0,0.0476,0.0476,fixed,FLORA-02
+flora-003,flora,Blocks & redstone,Flower chance on top of a 3-tall cactus per growth cycle,%,0,25,25,fixed,FLORA-04
+flora-004,flora,Worldgen,Consecutive unsupported blocks a fallen log may bridge,blocks,3,2,2,fixed,FLORA-06
+flora-005,flora,Worldgen,Fallen oak trees per chunk (forest),count,0.0125,0.0907,0.0907,fixed,FLORA-07
+flora-006,flora,Worldgen,Fallen birch trees per chunk (forest),count,0.0025,0.0252,0.0252,fixed,FLORA-07
+flora-007,flora,Worldgen,Fallen birch trees per chunk (birch forest),count,0.015,0.126,0.126,fixed,FLORA-07
+flora-008,flora,Worldgen,Fallen super birch trees per chunk (old growth birch forest),count,0.00625,0.0631,0.0631,fixed,FLORA-07
+flora-009,flora,Worldgen,Fallen birch trees per chunk (old growth birch forest),count,0.015,0.0627,0.0627,fixed,FLORA-07
+flora-010,flora,Worldgen,Fallen oak trees per chunk (dark forest),count,0.0125,0.0493,0.0493,fixed,FLORA-07
+flora-011,flora,Worldgen,Fallen birch trees per chunk (dark forest),count,0.0025,0.0123,0.0123,fixed,FLORA-07
+flora-012,flora,Worldgen,Fallen birch trees per chunk (flower forest),count,0.0025,0.0152,0.0152,fixed,FLORA-07
+flora-013,flora,Worldgen,Fallen oak trees per chunk (flower forest),count,0.0125,0,0,fixed,FLORA-07
+flora-014,flora,Worldgen,Fallen jungle trees per chunk (jungle),count,0.0125,0.188,0.188,fixed,FLORA-07
+flora-015,flora,Worldgen,Fallen jungle trees per chunk (sparse jungle),count,0.0125,0.0118,0.0118,fixed,FLORA-07
+flora-016,flora,Worldgen,Fallen jungle trees per chunk (bamboo jungle),count,0.0125,0,0,fixed,FLORA-07
+flora-017,flora,Worldgen,"Fallen spruce trees per chunk (taiga, snowy taiga)",count,0.0125,0.0842,0.0842,fixed,FLORA-07
+flora-018,flora,Worldgen,Fallen spruce trees per chunk (old growth pine/spruce taiga),count,0.0125,0.057,0.057,fixed,FLORA-07
+flora-019,flora,Worldgen,"Fallen spruce trees per chunk (snowy plains, ice spikes)",count,0,0.0013,0.0013,fixed,FLORA-07
+flora-020,flora,Worldgen,"Fallen oak trees per chunk (plains, sunflower plains)",count,0.0125,0.0004,0.0004,fixed,FLORA-07
+flora-021,flora,Worldgen,Fallen oak trees per chunk (savanna),count,0.0125,0.0027,0.0027,fixed,FLORA-07
+flora-022,flora,Worldgen,Fallen oak trees per chunk (savanna plateau),count,0.0125,0.0027,0.0027,fixed,FLORA-07
+flora-023,flora,Worldgen,Fallen oak trees per chunk (windswept savanna),count,0.0125,0.0052,0.0052,fixed,FLORA-07
+flora-024,flora,Worldgen,Fallen spruce trees per chunk (windswept forest),count,0.00833,0.0258,0.0258,fixed,FLORA-07
+flora-025,flora,Worldgen,Fallen oak trees per chunk (windswept forest),count,0.0125,0.0116,0.0116,fixed,FLORA-07
+flora-026,flora,Worldgen,Fallen spruce trees per chunk (windswept hills),count,0.00833,0.0008,0.0008,fixed,FLORA-07
+flora-027,flora,Worldgen,Fallen oak trees per chunk (windswept hills),count,0.0125,0.0004,0.0004,fixed,FLORA-07
+flora-028,flora,Worldgen,Fallen oak trees per chunk (wooded badlands),count,0.0125,0.0638,0.0638,fixed,FLORA-07
+flora-029,flora,Worldgen,"Fallen oak trees per chunk (badlands, eroded badlands)",count,0.0125,0,0,fixed,FLORA-07
+flora-030,flora,Worldgen,Fallen birch trees per chunk (grove),count,0.0025,0,0,fixed,FLORA-07
+flora-031,flora,Worldgen,Bush patch placement attempts,count,25,24,24,fixed,FLORA-09
+flora-032,flora,Worldgen,Biomes with bush patches,count,10,9,9,fixed,FLORA-10
+flora-033,flora,Drops & outputs,Bone-meal flowers that are wildflowers (birch forest),%,0,50,50,fixed,FLORA-13
+flora-034,flora,Misc,Mangrove falling-leaf particle chance per animate tick,%,0,1,1,fixed,FLORA-17
+wild-001,wild,Worldgen,Fallen poplars per chunk (dappled forest),count,0.0125,1.06,1.06,fixed,WILD-03
+wild-002,wild,Worldgen,Standing trees per chunk (dappled forest),count,6,4.94,4.94,fixed,WILD-03
+wild-003,wild,Worldgen,Fallen poplar weight in dappled tree selector,weight,0,120,120,fixed,WILD-03
+wild-004,wild,Drops & outputs,Camp common chest: chance per roll of each listed item,%,25,10,10,fixed,WILD-08
+wild-005,wild,Drops & outputs,Camp common chest: copper gear entries,count,0,6,6,fixed,WILD-08
+wild-006,wild,Drops & outputs,Camp secret chest: chance per roll of each iron item,%,33.3,25,25,fixed,WILD-09
+wild-007,wild,Drops & outputs,Camp map zoom level,count,1,2,2,fixed,WILD-10
+wild-008,wild,Drops & outputs,Camp map width,blocks,256,512,512,fixed,WILD-10
+wild-009,wild,Worldgen,Straw beds missing from camp tent templates,count,2,0,0,fixed,WILD-14
+wild-010,wild,Misc,Times Slept in a Bed added per straw-bed sleep,count,2,0,0,fixed,WILD-15
+wild-011,wild,Entity size,Sleeping height on a straw bed,blocks,0.6875,0.375,0.375,fixed,WILD-16
+wild-012,wild,Drops & outputs,Straw bed compost chance,%,0,85,85,fixed,WILD-19
+wild-013,wild,Misc,Straw bed item GUI translation (y),pixels,5,3,3,fixed,WILD-23
+wild-014,wild,Misc,Straw bed item frame translation (y),pixels,6,4,4,fixed,WILD-23
+wild-015,wild,Sounds,Shelf mushroom bounce sound min fall speed,blocks/tick,0.1,0.08,0.08,fixed,WILD-24
+wild-016,wild,Drops & outputs,Wandering trader Wilderness Bound trades,count,0,3,3,fixed,WILD-26
+wild-017,wild,Drops & outputs,Poplar shelf fuel time,ticks,0,300,300,fixed,WILD-27
+wild-018,wild,Blocks & redstone,Cushion fire check interval,ticks,1,100,100,fixed,WILD-30
+wild-019,wild,Drops & outputs,Cushion fuel time,ticks,200,50,50,fixed,WILD-31
+wild-020,wild,Drops & outputs,Wool slab fuel time,ticks,100,50,50,fixed,WILD-31
+wild-021,wild,Misc,Cushion break particle vertical spread,blocks,0.25,0.0625,0.0625,fixed,WILD-32
+wild-022,wild,Drops & outputs,Lightning-dropped cushion item invulnerability,ticks,0,20,20,fixed,WILD-32
+wild-023,wild,Misc,South-facing cushion render rotation,degrees,0,180,180,fixed,WILD-33
+wild-024,wild,Sounds,Wilderness Bound fall sounds without subtitle,count,3,0,0,fixed,WILD-36
+wild-025,wild,Misc,Concrete slabs/stairs in #slabs/#stairs,count,0,32,32,fixed,WILD-38
+misc-001,misc,Misc,Bundle hold-to-empty use duration,ticks,0,200,200,fixed,MISC-01
+misc-002,misc,Misc,Bundle dye recipes in the recipe book,count,0,16,16,fixed,MISC-02
+misc-003,misc,Misc,"Empty bundle tooltip height, 3-line description",pixels,39,48,48,fixed,MISC-03
+misc-004,misc,Misc,Loom patterns usable without a pattern item,count,34,32,32,fixed,MISC-08
+misc-005,misc,Misc,"Locator bar hidden after join, respawn or dimension change",ticks,100,0,0,fixed,MISC-12
+misc-006,misc,Sounds,End flash rumble volume on its first tick,%,37.5,100,100,fixed,MISC-18
+misc-007,misc,Sounds,"Average gap between songs (Default frequency, overworld)",ticks,16000,18000,18000,fixed,MISC-22
+misc-008,misc,Misc,Pause-menu music note time per colour,seconds,0.75,1.5,1.5,fixed,MISC-25
+misc-009,misc,Misc,Cloud radius at render distance 12 (default cloud distance),blocks,1152,2048,2048,fixed,MISC-27
+misc-010,misc,Drops & outputs,Planks dropped when a boat falls more than 3 blocks,count,3,0,0,fixed,MISC-28
+misc-011,misc,Drops & outputs,Sticks dropped when a boat falls more than 3 blocks,count,3,0,0,fixed,MISC-28
+misc-012,misc,Spawning,Monster types that spawn on Peaceful,count,0,7,7,fixed,MISC-31
+misc-013,misc,Blocks & redstone,Mass-leash game event sculk frequency,count,6,4,4,fixed,MISC-32
+misc-014,misc,Misc,Wool slab furnace fuel time,ticks,100,50,50,fixed,MISC-36
+misc-015,misc,Misc,Cushion furnace fuel time,ticks,200,50,50,fixed,MISC-36
+misc-016,misc,Misc,Cushion fire check interval,ticks,1,100,100,fixed,MISC-06
+misc-017,misc,Misc,Cushion break particle vertical spread,blocks,0.25,0.0625,0.0625,fixed,MISC-37
+misc-018,misc,Drops & outputs,Invulnerability of a lightning-dropped cushion item,ticks,0,20,20,fixed,MISC-37
+tech-spawning-001,tech-spawning,Spawning,Desert skeleton spawn weight,weight,100,50,50,fixed,SPAWN-01
+tech-spawning-002,tech-spawning,Spawning,Desert monster packs: skeleton share,%,17.7,9.71,9.71,fixed,SPAWN-01
+tech-spawning-003,tech-spawning,Spawning,Desert monster packs: parched share,%,8.85,9.71,9.71,fixed,SPAWN-01
+tech-spawning-004,tech-spawning,Spawning,Desert monster packs: husk share,%,14.16,15.53,15.53,fixed,SPAWN-01
+tech-spawning-005,tech-spawning,Spawning,Desert monster packs: spider/creeper/slime share (each),%,17.7,19.42,19.42,fixed,SPAWN-01
+tech-spawning-006,tech-spawning,Spawning,Desert monster packs: zombie share,%,3.36,3.69,3.69,fixed,SPAWN-01
+tech-spawning-007,tech-spawning,Spawning,Desert monster table total weight,weight,565,515,515,fixed,SPAWN-01
+tech-spawning-008,tech-spawning,Spawning,Desert skeletons per parched,x,2.0,1.0,1.0,fixed,SPAWN-01
+tech-spawning-009,tech-spawning,Spawning,"Zombie spawn weight in zombie-horse biomes (plains, snowy plains, savannas)",weight,95,90,90,fixed,SPAWN-02
+tech-spawning-010,tech-spawning,Spawning,Zombie-horse biomes: zombie pack share,%,18.27,17.48,17.48,fixed,SPAWN-02
+tech-spawning-011,tech-spawning,Spawning,Zombie-horse biomes: zombie horse pack share,%,0.962,0.971,0.971,fixed,SPAWN-02
+tech-spawning-012,tech-spawning,Spawning,Zombie-horse biomes monster table total weight,weight,520,515,515,fixed,SPAWN-02
+tech-spawning-013,tech-spawning,Spawning,Badlands sheep spawn weight,weight,0,12,12,fixed,SPAWN-03
+tech-spawning-014,tech-spawning,Spawning,Badlands pig spawn weight,weight,0,10,10,fixed,SPAWN-03
+tech-spawning-015,tech-spawning,Spawning,Badlands chicken spawn weight,weight,0,10,10,fixed,SPAWN-03
+tech-spawning-016,tech-spawning,Spawning,Badlands cow spawn weight,weight,0,8,8,fixed,SPAWN-03
+tech-spawning-017,tech-spawning,Spawning,Badlands creature table total weight,weight,6,46,46,fixed,SPAWN-03
+tech-spawning-018,tech-spawning,Spawning,Wooded badlands creature table total weight,weight,8,48,48,fixed,SPAWN-03
+tech-spawning-019,tech-spawning,Spawning,Badlands armadillo share of creature packs,%,100,13.0,13.0,fixed,SPAWN-03
+tech-spawning-020,tech-spawning,Spawning,Wooded badlands armadillo share of creature packs,%,75,12.5,12.5,fixed,SPAWN-03
+tech-spawning-021,tech-spawning,Spawning,Desert rabbit spawn weight,weight,4,12,12,fixed,SPAWN-04
+tech-spawning-022,tech-spawning,Spawning,Desert camel share of creature packs,%,20.0,7.69,7.69,fixed,SPAWN-04
+tech-spawning-023,tech-spawning,Spawning,Desert rabbit share of creature packs,%,80.0,92.3,92.3,fixed,SPAWN-04
+tech-spawning-024,tech-spawning,Spawning,Warm ocean nautilus position in water-creature list (0 = first),count,2,0,0,fixed,SPAWN-05
+tech-spawning-025,tech-spawning,Spawning,Peaceful: zombie horse share of monster packs in zombie-horse biomes,%,0,0.971,0.971,fixed,SPAWN-06
+tech-spawning-026,tech-spawning,Spawning,Happy ghast spawner minimum light level,light,0,9,9,fixed,SPAWN-07
+tech-spawning-027,tech-spawning,Spawning,Hard: villager-to-zombie-villager conversions that arrive with an iron spear,%,0.8,0,0,fixed,SPAWN-13
+tech-spawning-028,tech-spawning,Spawning,Hard: conversions that arrive wearing armour (up to),%,15,0,15,not-fixed,SPAWN-13
+tech-ai-001,tech-ai,Mob AI,Vindicator walk speed fleeing a creaking,x,0.6,1.0,1.0,fixed,AI-CRK-01
+tech-ai-002,tech-ai,Mob AI,Pillager walk speed fleeing a creaking,x,0.6,1.0,1.0,fixed,AI-CRK-01
+tech-ai-003,tech-ai,Mob AI,Illusioner walk speed fleeing a creaking,x,0.6,1.0,1.0,fixed,AI-CRK-01
+tech-ai-004,tech-ai,Mob AI,Evoker sprint speed fleeing a creaking (within 7 blocks),x,1.2,1.0,1.0,fixed,AI-CRK-01
+tech-ai-005,tech-ai,Mob AI,Creaking pathfinder node budget (lowest follow-range roll),count,512,453,453,fixed,AI-CRK-D3
+tech-ai-006,tech-ai,Mob AI,Creaking pathfinder node budget (highest follow-range roll),count,512,570,570,fixed,AI-CRK-D3
+tech-ai-007,tech-ai,Mob AI,Happy ghast wander area across (unharnessed adult),blocks,127,128,128,fixed,AI-GHS-01
+tech-ai-008,tech-ai,Mob AI,Happy ghast wander area across (harnessed),blocks,63,64,64,fixed,AI-GHS-01
+tech-ai-009,tech-ai,Mob AI,Ridden happy ghast strafe input on diagonals,x,0.98,0.7071,0.7071,fixed,AI-GHS-D1
+tech-ai-010,tech-ai,Mob AI,Ghastling horizontal flight impulse vs path speed,x,0.98,1.0,1.0,fixed,AI-GHS-D1b
+tech-ai-011,tech-ai,Mob AI,Ghastling stroll pull toward home (mean offset),blocks,2.0,2.5,2.5,fixed,AI-GHS-D3
+tech-ai-012,tech-ai,Mob AI,Ghastling panic pull toward home (mean offset),blocks,0.5,1.25,1.25,fixed,AI-GHS-D3
+tech-ai-013,tech-ai,Blocks & redstone,Neighbour chest held open when a golem opens a single chest,ticks,59,0,0,fixed,AI-CPG-01
+tech-ai-014,tech-ai,Blocks & redstone,Trapped-chest neighbour output during a golem visit to a single chest,count,1,0,0,fixed,AI-CPG-01
+tech-ai-015,tech-ai,Blocks & redstone,Double chest open time per golem visit,ticks,59,60,60,fixed,AI-CPG-02
+tech-ai-016,tech-ai,Mob AI,Nautilus and camel husk brain sensor range (max follow-range roll),blocks,16,17.84,17.84,fixed,AI-MNT-D3
+tech-ai-017,tech-ai,Mob AI,Nautilus path waypoint vertical tolerance in water,blocks,1.0,0.5,0.5,fixed,AI-MNT-D5
+tech-ai-018,tech-ai,Combat,Sulfur cube: 0.4 spear-jab impulse scale on a block-holding cube,x,1,1,1,fixed,AI-SLF-01
+tech-ai-019,tech-ai,Combat,Sulfur cube: sprint impulse scale on a higher-damage hit inside i-frames,x,1,0.125,0.125,fixed,AI-SLF-01
+tech-ai-020,tech-ai,Combat,Spear knockback impulses on a primed sulfur cube,count,0,2,2,fixed,AI-SLF-02
+tech-ai-021,tech-ai,Drops & outputs,Dispenser-sheared block drop height above a size-2 sulfur cube,blocks,1.0,0.98,0.98,fixed,AI-SLF-05
+tech-ai-022,tech-ai,Misc,Fire charges used per sulfur cube ignited in creative,count,1,0,0,fixed,AI-SLF-06
+tech-ai-023,tech-ai,Blocks & redstone,Dispenser shear pulses to take the block from a leashed sulfur cube,count,1,2,1,engine-limit,AI-SLF-D1
+tech-ai-024,tech-ai,Misc,Wandering trader offers per trader,count,6,9,6,engine-limit,AI-VAR-D1
+tech-ai-025,tech-ai,Misc,Wandering trader chance to offer pale oak log,%,12.5,13.3,12.5,engine-limit,AI-VAR-D1
+tech-ai-026,tech-ai,Misc,Wandering trader chance to offer each common VB item,%,6.76,6.58,6.76,engine-limit,AI-VAR-D1
+tech-ai-027,tech-ai,Mob AI,Extra wolf foods (fish and rabbit stew),count,0,7,0,engine-limit,AI-VAR-D3
+tech-physics-001,tech-physics,Entity size,Copper golem fall damage from a 10-block drop,hp,7,0,0,fixed,TPHYS-A01
+tech-physics-002,tech-physics,Entity size,Copper golem fall damage from a 15-block drop (12 HP golem),hp,12,0,0,fixed,TPHYS-A01
+tech-physics-003,tech-physics,Blocks & redstone,Sulfur cube on slime: horizontal speed kept per tick (slime step slow-down),x,1.0,0.416,0.416,fixed,TPHYS-A02
+tech-physics-004,tech-physics,Entity size,Baby nautilus passenger attachment height,blocks,0.56875,0.5,0.5,fixed,TPHYS-A03
+tech-physics-005,tech-physics,Entity size,Pale oak / poplar boat eye height,blocks,0.478125,0.5625,0.5625,fixed,TPHYS-A04
+tech-physics-006,tech-physics,Entity size,Pale oak / poplar boat leash offset,blocks,0.4208,0.495,0.495,fixed,TPHYS-A04
+tech-physics-007,tech-physics,Blocks & redstone,Shelf mushroom: upward speed of a mob standing on it,blocks/tick,0.0588,0,0,fixed,TPHYS-B01;TBLK-351
+tech-physics-008,tech-physics,Blocks & redstone,Shelf mushroom: upward speed of an item resting on it,blocks/tick,0.047,0,0,fixed,TBLK-351
+tech-physics-009,tech-physics,Blocks & redstone,Shelf mushroom bounce speed after landing at 0.5 b/t (half-tick contact),blocks/tick,0.375,0.40095,0.40095,fixed,TPHYS-B01
+tech-physics-010,tech-physics,Blocks & redstone,Geyser upward impulse on server-side players,blocks/tick,0.2,0,0,fixed,TPHYS-B03
+tech-physics-011,tech-physics,Blocks & redstone,Shelf mushroom restitution for regular sulfur cube,x,0.5,0.75,0.75,fixed,TPHYS-B04;TBLK-302
+tech-physics-012,tech-physics,Blocks & redstone,Shelf mushroom restitution for slow_bouncy sulfur cube,x,0.6,0.75,0.75,fixed,TPHYS-B04;TBLK-302
+tech-physics-013,tech-physics,Blocks & redstone,Shelf mushroom restitution for slow_flat sulfur cube,x,0.4,0.75,0.75,fixed,TPHYS-B04;TBLK-302
+tech-physics-014,tech-physics,Blocks & redstone,Shelf mushroom restitution for fast_flat sulfur cube,x,0.5,0.75,0.75,fixed,TPHYS-B04;TBLK-302
+tech-physics-015,tech-physics,Blocks & redstone,Shelf mushroom restitution for fast_sliding sulfur cube,x,0.1,0.75,0.75,fixed,TPHYS-B04;TBLK-302
+tech-physics-016,tech-physics,Blocks & redstone,Shelf mushroom restitution for slow_sliding sulfur cube,x,0.1,0.75,0.75,fixed,TPHYS-B04;TBLK-302
+tech-physics-017,tech-physics,Combat,Second stab knockback power with Knockback I spear,x,1.0,0.5,0.5,fixed,TPHYS-C02
+tech-physics-018,tech-physics,Combat,Second stab knockback power with Knockback II spear,x,2.0,1.0,1.0,fixed,TPHYS-C02
+tech-physics-019,tech-physics,Combat,Sculk vibrations per spear charge,count,2,0,0,fixed,TPHYS-C04
+tech-physics-020,tech-physics,Combat,Knockback-only player stab on a block-holding sulfur cube: horizontal knockback,x,0.4,0,0,fixed,TPHYS-C05
+tech-physics-021,tech-physics,Combat,Frozen creaking: sprint-hit extra knockback,x,0,0.5,0.5,fixed,TPHYS-C06
+tech-physics-022,tech-physics,Combat,Frozen creaking: stab base knockback,x,0,0.4,0.4,fixed,TPHYS-C06
+tech-physics-023,tech-physics,Combat,Nautilus knockback resistance (float literal),x,0.3,0.30000001192092896,0.30000001192092896,fixed,TPHYS-C09
+tech-physics-024,tech-physics,Mob AI,Creaking movement speed (float literal),x,0.4,0.4000000059604645,0.4000000059604645,fixed,TPHYS-C09
+tech-physics-025,tech-physics,Blocks & redstone,"Bed restitution for non-bouncy sulfur cubes (sticky, baby, empty)",x,0.66,0.75,0.75,fixed,TPHYS-AE01
+tech-physics-026,tech-physics,Combat,Golden-spear piglin plain melee damage (every 20 ticks),hp,5,0,0,fixed,TPHYS-CE01
+tech-outputs-001,tech-outputs,Drops & outputs,"Red mushrooms from a zombie riding a zombie horse (max, no Looting)",count,0,1,1,fixed,OUT-01
+tech-outputs-002,tech-outputs,Drops & outputs,"Red mushrooms from a zombie riding a zombie horse (max, Looting III)",count,0,4,4,fixed,OUT-01
+tech-outputs-003,tech-outputs,Drops & outputs,"Rabbit's feet from a husk riding a camel husk (max, no Looting)",count,0,1,1,fixed,OUT-02
+tech-outputs-004,tech-outputs,Drops & outputs,Zombie horse rotten flesh (min),count,0,2,2,fixed,OUT-03
+tech-outputs-005,tech-outputs,Drops & outputs,Zombie horse rotten flesh (max),count,2,3,3,fixed,OUT-03
+tech-outputs-006,tech-outputs,Drops & outputs,"Zombie horse rotten flesh (average, no Looting)",count,1.0,2.5,2.5,fixed,OUT-03
+tech-outputs-007,tech-outputs,Drops & outputs,Underwater ruin chests: iron spear weight,weight,2,0,0,fixed,OUT-04
+tech-outputs-008,tech-outputs,Drops & outputs,Underwater ruin chests: stone spear weight,weight,0,2,2,fixed,OUT-04
+tech-outputs-009,tech-outputs,Drops & outputs,Wooden spear furnace burn time,ticks,0,200,200,fixed,OUT-05
+tech-outputs-010,tech-outputs,Drops & outputs,Items smelted per wooden spear,count,0,1,1,fixed,OUT-05
+tech-outputs-011,tech-outputs,Drops & outputs,Vanilla chest tables with VB entries out of native position,count,8,0,0,fixed,OUT-06
+tech-outputs-012,tech-outputs,Drops & outputs,VB loot tables without a random_sequence,count,165,0,0,fixed,OUT-07
+tech-blocks-001,tech-blocks,Blocks & redstone,Oxidation chance per roll: lone copper block next to a waxed rod,%,18.75,75,75,fixed,TBLK-101
+tech-blocks-002,tech-blocks,Blocks & redstone,Oxidation chance per roll: exposed copper block next to a waxed rod,%,0,100,100,fixed,TBLK-101
+tech-blocks-003,tech-blocks,Blocks & redstone,Struck exposed/weathered/oxidized lightning rod pulse length,ticks,0,8,8,fixed,TBLK-102
+tech-blocks-004,tech-blocks,Blocks & redstone,Piston-moved powered lightning rod: remaining pulse (up to),ticks,0,8,8,fixed,TBLK-151
+tech-blocks-005,tech-blocks,Blocks & redstone,BLOCK_CHANGE game events when scraping or waxing a double copper chest,count,1,2,2,fixed,TBLK-103
+tech-blocks-006,tech-blocks,Blocks & redstone,Vibrations when taking a spear off a shelf,count,1,0,0,fixed,TBLK-104
+tech-blocks-007,tech-blocks,Sounds,Server RNG draws per sulfur spike landing,count,1,0,0,fixed,TBLK-301
+tech-blocks-008,tech-blocks,Sounds,Sulfur spike landing sound reach,blocks,32,64,64,fixed,TBLK-301
+tech-blocks-009,tech-blocks,Blocks & redstone,Vibrations per shelf mushroom bounce,count,0,1,1,fixed,TBLK-303
+tech-blocks-010,tech-blocks,Blocks & redstone,Level-RNG draws per bone meal on a poplar sapling,count,1,2,2,fixed,TBLK-352

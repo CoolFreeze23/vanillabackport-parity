@@ -1,0 +1,23 @@
+{
+  "subtitles.entity.baby_cat.ambient": "Katido miaŭetas",
+  "subtitles.entity.baby_cat.beg_for_food": "Katido petas",
+  "subtitles.entity.baby_cat.death": "Katido mortas",
+  "subtitles.entity.baby_cat.eat": "Katido manĝas",
+  "subtitles.entity.baby_cat.hiss": "Katido siblas",
+  "subtitles.entity.baby_cat.hurt": "Katido vundiĝas",
+  "subtitles.entity.baby_cat.purr": "Katido ronronas",
+  "subtitles.entity.baby_chicken.ambient": "Kokido kluketas",
+  "subtitles.entity.baby_chicken.death": "Kokido mortas",
+  "subtitles.entity.baby_chicken.hurts": "Kokido vundiĝas",
+  "subtitles.entity.baby_pig.ambient": "Porkido gruntetas",
+  "subtitles.entity.baby_pig.death": "Porkido mortas",
+  "subtitles.entity.baby_pig.eat": "Porkido manĝas",
+  "subtitles.entity.baby_pig.hurt": "Porkido vundiĝas",
+  "subtitles.entity.baby_wolf.ambient": "Lupido bojetas",
+  "subtitles.entity.baby_wolf.death": "Lupido mortas",
+  "subtitles.entity.baby_wolf.growl": "Lupido graŭlas",
+  "subtitles.entity.baby_wolf.hurt": "Lupido vundiĝas",
+  "subtitles.entity.baby_wolf.pant": "Lupido anhelas",
+  "subtitles.entity.baby_wolf.whine": "Lupido jelpas",
+  "subtitles.entity.pig.eat": "Porko manĝas"
+}

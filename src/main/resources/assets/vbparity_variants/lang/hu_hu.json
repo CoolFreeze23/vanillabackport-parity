@@ -1,0 +1,23 @@
+{
+  "subtitles.entity.baby_cat.ambient": "Kiscica nyávog",
+  "subtitles.entity.baby_cat.beg_for_food": "Kiscica kunyerál",
+  "subtitles.entity.baby_cat.death": "Kiscica meghal",
+  "subtitles.entity.baby_cat.eat": "Kiscica eszik",
+  "subtitles.entity.baby_cat.hiss": "Kiscica fúj",
+  "subtitles.entity.baby_cat.hurt": "Kiscica sérül",
+  "subtitles.entity.baby_cat.purr": "Kiscica dorombol",
+  "subtitles.entity.baby_chicken.ambient": "Csibe csipog",
+  "subtitles.entity.baby_chicken.death": "Csibe meghal",
+  "subtitles.entity.baby_chicken.hurts": "Csibe sérül",
+  "subtitles.entity.baby_pig.ambient": "Kismalac röfög",
+  "subtitles.entity.baby_pig.death": "Kismalac meghal",
+  "subtitles.entity.baby_pig.eat": "Kismalac eszik békésen",
+  "subtitles.entity.baby_pig.hurt": "Kismalac sérül",
+  "subtitles.entity.baby_wolf.ambient": "Kiskutya vakkant",
+  "subtitles.entity.baby_wolf.death": "Kiskutya meghal",
+  "subtitles.entity.baby_wolf.growl": "Kiskutya morog",
+  "subtitles.entity.baby_wolf.hurt": "Kiskutya sérül",
+  "subtitles.entity.baby_wolf.pant": "Kiskutya liheg",
+  "subtitles.entity.baby_wolf.whine": "Kiskutya nyüszít",
+  "subtitles.entity.pig.eat": "Malac eszik békésen"
+}

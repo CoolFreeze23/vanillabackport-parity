@@ -1,0 +1,33 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.coolfreeze23.vbparity.wild.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "BlockAttachedEntityAccessor",
+    "CushionMixin",
+    "FeatureManagerMixin",
+    "FlowingFluidMixin",
+    "ItemEntityMixin",
+    "LevelMixin",
+    "LivingEntityMixin",
+    "ModSurfaceRuleDataMixin",
+    "PoplarSaplingBonemealMixin",
+    "PoplarTrunkPlacerMixin",
+    "ServerPlayerMixin",
+    "ShelfMushroomBlockMixin",
+    "StrawBedBlockMixin",
+    "TrunkPlacerAccessor",
+    "WildBiomeGenerationMixin",
+    "WildOverworldBiomeBuilderMixin",
+    "WildernessBoundFeatureManagerMixin"
+  ],
+  "client": [
+    "client.CushionRendererMixin",
+    "client.LevelRendererMixin",
+    "client.StrawBedItemRendererMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

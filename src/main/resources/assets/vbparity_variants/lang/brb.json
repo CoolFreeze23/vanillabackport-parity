@@ -1,0 +1,23 @@
+{
+  "subtitles.entity.baby_cat.ambient": "Kitten miauwt",
+  "subtitles.entity.baby_cat.beg_for_food": "Kitten smeekt",
+  "subtitles.entity.baby_cat.death": "Kitten sterft",
+  "subtitles.entity.baby_cat.eat": "Kitten eet",
+  "subtitles.entity.baby_cat.hiss": "Kitten blaast",
+  "subtitles.entity.baby_cat.hurt": "Kitten raakt gewond",
+  "subtitles.entity.baby_cat.purr": "Kitten spint",
+  "subtitles.entity.baby_chicken.ambient": "Kuiken piept",
+  "subtitles.entity.baby_chicken.death": "Kuiken sterft",
+  "subtitles.entity.baby_chicken.hurts": "Kuiken raakt gewond",
+  "subtitles.entity.baby_pig.ambient": "Biggetje knort",
+  "subtitles.entity.baby_pig.death": "Biggetje sterft",
+  "subtitles.entity.baby_pig.eat": "Biggetje eet",
+  "subtitles.entity.baby_pig.hurt": "Biggetje raakt gewond",
+  "subtitles.entity.baby_wolf.ambient": "Puppy keft",
+  "subtitles.entity.baby_wolf.death": "Puppy sterft",
+  "subtitles.entity.baby_wolf.growl": "Puppy gromt",
+  "subtitles.entity.baby_wolf.hurt": "Puppy raakt gewond",
+  "subtitles.entity.baby_wolf.pant": "Puppy hijgt",
+  "subtitles.entity.baby_wolf.whine": "Puppy jammert",
+  "subtitles.entity.pig.eat": "Varken eet"
+}

@@ -1,0 +1,51 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.coolfreeze23.vbparity.variants.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "AdditionalCodecsMixin",
+    "AgeableMobMixin",
+    "AnimalMixin",
+    "CatMixin",
+    "CatNativeSpawnMixin",
+    "CatSpawnMixin",
+    "CatSpawnerMixin",
+    "ChickenLayMixin",
+    "ChickenMixin",
+    "CowMixin",
+    "ModelAndTextureMixin",
+    "MoonBrightnessCheckMixin",
+    "PigMixin",
+    "SheepMixin",
+    "VariantUtilsMixin",
+    "WolfDimensionsMixin",
+    "WolfSoundMixin",
+    "access.BuiltInCoreRegistryAccessor",
+    "access.LivingEntitySoundInvoker",
+    "access.MobSoundInvoker"
+  ],
+  "client": [
+    "client.AbstractVariantRendererMixin",
+    "client.CatCollarLayerMixin",
+    "client.CatRendererMixin",
+    "client.ChickenRendererMixin",
+    "client.ClientConfigMixin",
+    "client.ColdPigModelMixin",
+    "client.CowRendererMixin",
+    "client.LivingEntityRendererMixin",
+    "client.MushroomCowRendererMixin",
+    "client.PigModelMixin",
+    "client.PigRendererMixin",
+    "client.SheepFurLayerMixin",
+    "client.SheepModelMixin",
+    "client.SheepRendererMixin",
+    "client.SheepWoolUndercoatLayerMixin",
+    "client.WolfArmorLayerMixin",
+    "client.WolfCollarLayerMixin",
+    "client.WolfRendererMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

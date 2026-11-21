@@ -1,0 +1,23 @@
+{
+  "subtitles.entity.baby_cat.ambient": "Кацяня мяўкае",
+  "subtitles.entity.baby_cat.beg_for_food": "Кацяня просіць",
+  "subtitles.entity.baby_cat.death": "Кацяня гіне",
+  "subtitles.entity.baby_cat.eat": "Кацяня есць",
+  "subtitles.entity.baby_cat.hiss": "Кацяня шыпіць",
+  "subtitles.entity.baby_cat.hurt": "Кацяня параненае",
+  "subtitles.entity.baby_cat.purr": "Кацяня муркае",
+  "subtitles.entity.baby_chicken.ambient": "Кураня ціўкае",
+  "subtitles.entity.baby_chicken.death": "Кураня гіне",
+  "subtitles.entity.baby_chicken.hurts": "Кураня параненае",
+  "subtitles.entity.baby_pig.ambient": "Парася рохкае",
+  "subtitles.entity.baby_pig.death": "Парася гіне",
+  "subtitles.entity.baby_pig.eat": "Парася есць",
+  "subtitles.entity.baby_pig.hurt": "Парася параненае",
+  "subtitles.entity.baby_wolf.ambient": "Шчаня цяўкае",
+  "subtitles.entity.baby_wolf.death": "Шчаня гіне",
+  "subtitles.entity.baby_wolf.growl": "Шчаня гыркае",
+  "subtitles.entity.baby_wolf.hurt": "Шчаня параненае",
+  "subtitles.entity.baby_wolf.pant": "Шчаня цяжка сапе",
+  "subtitles.entity.baby_wolf.whine": "Шчаня скавыча",
+  "subtitles.entity.pig.eat": "Свіння есць"
+}

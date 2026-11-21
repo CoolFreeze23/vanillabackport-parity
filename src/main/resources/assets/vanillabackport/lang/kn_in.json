@@ -1,0 +1,12 @@
+{
+  "advancements.husbandry.remove_wolf_armor.description": "ಕತ್ತರಿಗಳನ್ನು ಬಳಸಿಕೊಂಡು ತೋಳದಿಂದ ವುಲ್ಫ್ ಆರ್ಮರ್ ಅನ್ನು ತೆಗೆದುಹಾಕಿ",
+  "advancements.husbandry.remove_wolf_armor.title": "ಶಿಯರ್ ಬ್ರಿಲಿಯನ್ಸ್",
+  "advancements.husbandry.repair_wolf_armor.description": "ಆರ್ಮಡಿಲೊ ಸ್ಕ್ಯೂಟ್ಸ್ ಬಳಸಿ ಹಾನಿಗೊಳಗಾದ ವುಲ್ಫ್ ಆರ್ಮರ್ ಅನ್ನು ದುರಸ್ತಿ ಮಾಡಿ",
+  "advancements.husbandry.repair_wolf_armor.title": "ಹೊಸದರಂತೆ ಚೆನ್ನಾಗಿದೆ",
+  "advancements.husbandry.whole_pack.description": "ಪ್ರತಿ ವುಲ್ಫ್ ರೂಪಾಂತರಗಳಲ್ಲಿ ಒಂದನ್ನು ಪಳಗಿಸಿ",
+  "advancements.husbandry.whole_pack.title": "ಸಂಪೂರ್ಣ ಪ್ಯಾಕ್",
+  "item.minecraft.nautilus_shell": "ನಾಟಿಲಸ್ ಶೆಲ್",
+  "options.hideLightningFlashes": "ಮಿಂಚಿನ ಹೊಳಪಿನ ಮರೆಮಾಡಿ",
+  "subtitles.entity.copper_golem.no_item_get": "Copper Golem is picking up an item",
+  "subtitles.entity.copper_golem.no_item_no_get": "Copper Golem can't pick up an item"
+}

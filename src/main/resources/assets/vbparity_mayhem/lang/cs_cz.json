@@ -1,0 +1,6 @@
+{
+  "death.attack.spear": "Hráč %1$s byl probodnut entitou %2$s",
+  "death.attack.spear.item": "Hráč %1$s byl probodnut hráčem %2$s pomocí %3$s",
+  "subtitles.entity.parrot.imitate.zombie_horse": "papoušek sténá jako zombie kůň",
+  "subtitles.item.saddle.unequip": "odstřihnutí sedla"
+}

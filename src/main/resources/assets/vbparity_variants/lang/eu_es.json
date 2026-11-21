@@ -1,0 +1,23 @@
+{
+  "subtitles.entity.baby_cat.ambient": "Katutxoa miau egiten",
+  "subtitles.entity.baby_cat.beg_for_food": "Katutxoa erregutzen",
+  "subtitles.entity.baby_cat.death": "Katutxoa hiltzen",
+  "subtitles.entity.baby_cat.eat": "Katutxoa jaten",
+  "subtitles.entity.baby_cat.hiss": "Katutxoa siseatzen",
+  "subtitles.entity.baby_cat.hurt": "Katutxoa min hartzen",
+  "subtitles.entity.baby_cat.purr": "Katutxoa urruma egiten",
+  "subtitles.entity.baby_chicken.ambient": "Txita txio egiten",
+  "subtitles.entity.baby_chicken.death": "Txita hiltzen",
+  "subtitles.entity.baby_chicken.hurts": "Txita min hartzen",
+  "subtitles.entity.baby_pig.ambient": "Txerri Haurra oink egiten",
+  "subtitles.entity.baby_pig.death": "Txerri Haurra hiltzen",
+  "subtitles.entity.baby_pig.eat": "Txerri Haurra min hartzen",
+  "subtitles.entity.baby_pig.hurt": "Txerri Haurra min hartzen",
+  "subtitles.entity.baby_wolf.ambient": "Txakurkume zaunka egiten",
+  "subtitles.entity.baby_wolf.death": "Txakurkume hiltzen",
+  "subtitles.entity.baby_wolf.growl": "Txakurkume orrokatzen",
+  "subtitles.entity.baby_wolf.hurt": "Txakurkume min hartzen",
+  "subtitles.entity.baby_wolf.pant": "Txakurkume arin-arin arnastzen",
+  "subtitles.entity.baby_wolf.whine": "Txakurkume kexu egiten",
+  "subtitles.entity.pig.eat": "Txerria jaten"
+}

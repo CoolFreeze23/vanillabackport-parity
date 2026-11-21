@@ -1,0 +1,50 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.coolfreeze23.vbparity.sulfur.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "AbstractCubeMobMixin",
+    "BlockBehaviourMixin",
+    "BlockPropertiesMixin",
+    "DispenserBlockMixin",
+    "EntityBounceMixin",
+    "LakeFeatureMixin",
+    "LivingEntityBodyAccessor",
+    "LivingEntityStepOnMixin",
+    "MobAccessor",
+    "MobAttackKnockbackMixin",
+    "ModBlocksMixin",
+    "ModSurfaceRuleDataMixin",
+    "NoiseBasedChunkGeneratorMixin",
+    "PlayerAttackKnockbackMixin",
+    "PotentSulfurBlockEntityInvoker",
+    "PotentSulfurBlockEntityMixin",
+    "PotentSulfurBlockMixin",
+    "SequenceRuleSourceAccessor",
+    "SpeleothemBlockInvoker",
+    "SpeleothemBlockMixin",
+    "StabKnockbackEffectLivingEntityMixin",
+    "StabKnockbackEffectPlayerMixin",
+    "StabKnockbackLivingEntityMixin",
+    "StabKnockbackPlayerMixin",
+    "SulfurBiomeGenerationMixin",
+    "SulfurCubeArchetypeEntryMixin",
+    "SulfurCubeBodySlotMixin",
+    "SulfurCubeBucketItemMixin",
+    "SulfurCubeInvoker",
+    "SulfurCubeMixin",
+    "SulfurOverworldBiomeBuilderMixin",
+    "WalkNodeEvaluatorMixin"
+  ],
+  "client": [
+    "client.GeyserBaseParticleProviderMixin",
+    "client.SulfurBubbleParticleMixin",
+    "client.SulfurCubeInnerLayerMixin",
+    "client.SulfurCubeOuterLayerMixin",
+    "client.SulfurCubeParticleProviderMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "subtitles.entity.baby_cat.ambient": "sʍoǝɯ uǝʇʇᴉꞰ",
+  "subtitles.entity.baby_cat.beg_for_food": "sᵷǝq uǝʇʇᴉꞰ",
+  "subtitles.entity.baby_cat.death": "sǝᴉp uǝʇʇᴉꞰ",
+  "subtitles.entity.baby_cat.eat": "sʇɐǝ uǝʇʇᴉꞰ",
+  "subtitles.entity.baby_cat.hiss": "sǝssᴉɥ uǝʇʇᴉꞰ",
+  "subtitles.entity.baby_cat.hurt": "sʇɹnɥ uǝʇʇᴉꞰ",
+  "subtitles.entity.baby_cat.purr": "sɹɹnd uǝʇʇᴉꞰ",
+  "subtitles.entity.baby_chicken.ambient": "sdǝǝd ʞɔᴉɥƆ",
+  "subtitles.entity.baby_chicken.death": "sǝᴉp ʞɔᴉɥƆ",
+  "subtitles.entity.baby_chicken.hurts": "sʇɹnɥ ʞɔᴉɥƆ",
+  "subtitles.entity.baby_pig.ambient": "sʞuᴉo ʇǝꞁᵷᴉԀ",
+  "subtitles.entity.baby_pig.death": "sǝᴉp ʇǝꞁᵷᴉԀ",
+  "subtitles.entity.baby_pig.eat": "sʇɐǝ ʇǝꞁᵷᴉԀ",
+  "subtitles.entity.baby_pig.hurt": "sʇɹnɥ ʇǝꞁᵷᴉԀ",
+  "subtitles.entity.baby_wolf.ambient": "sdᴉʎ ʎddnԀ",
+  "subtitles.entity.baby_wolf.death": "sǝᴉp ʎddnԀ",
+  "subtitles.entity.baby_wolf.growl": "sꞁʍoɹᵷ ʎddnԀ",
+  "subtitles.entity.baby_wolf.hurt": "sʇɹnɥ ʎddnԀ",
+  "subtitles.entity.baby_wolf.pant": "sʇuɐd ʎddnԀ",
+  "subtitles.entity.baby_wolf.whine": "sǝuᴉɥʍ ʎddnԀ",
+  "subtitles.entity.pig.eat": "sʇɐǝ ᵷᴉԀ"
+}

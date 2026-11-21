@@ -1,0 +1,51 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.coolfreeze23.vbparity.ghast.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "AbstractHorseLeashMixin",
+    "AnimalPanicMixin",
+    "BabyFlyingPathNavigationMixin",
+    "BlockBehaviourAccessor",
+    "CamelLeashMixin",
+    "DriedGhastBlockMixin",
+    "DrownedJockeyMixin",
+    "EntityCollisionMixin",
+    "EnvironmentUtilsMixin",
+    "FenceBlockLeadMixin",
+    "FireworkRocketItemMixin",
+    "FollowTemptationMixin",
+    "GhastHarnessInteractionMixin",
+    "GhastlingFollowAdultMixin",
+    "HappyGhastAiMixin",
+    "HappyGhastMixin",
+    "HuskJockeyMixin",
+    "InterpolationHandlerMixin",
+    "LeadItemMixin",
+    "LeashFenceKnotEntityMixin",
+    "LeashInteractionMixin",
+    "LeashPhysicsMixin",
+    "LeashableMixin",
+    "LivingEntityEquipMixin",
+    "LlamaLeashMixin",
+    "LootItemAccessor",
+    "ModEntityTypesMixin",
+    "NetherFossilPieceMixin",
+    "PathFinderAccessor",
+    "PathNavigationAccessor",
+    "TemptingSensorMixin",
+    "ZombieHorseLeashMixin",
+    "ZombieJockeyMixin"
+  ],
+  "client": [
+    "client.CameraMixin",
+    "client.EntityRendererLeashMixin",
+    "client.HappyGhastModelMixin",
+    "client.HappyGhastRendererMixin",
+    "client.LeashFeatureRendererMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

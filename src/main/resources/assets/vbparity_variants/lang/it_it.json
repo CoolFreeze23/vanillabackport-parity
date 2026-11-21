@@ -1,0 +1,23 @@
+{
+  "subtitles.entity.baby_cat.ambient": "Gattino miagola",
+  "subtitles.entity.baby_cat.beg_for_food": "Gattino chiede cibo",
+  "subtitles.entity.baby_cat.death": "Gattino muore",
+  "subtitles.entity.baby_cat.eat": "Gattino mangia",
+  "subtitles.entity.baby_cat.hiss": "Gattino soffia",
+  "subtitles.entity.baby_cat.hurt": "Gattino ferito",
+  "subtitles.entity.baby_cat.purr": "Gattino fa le fusa",
+  "subtitles.entity.baby_chicken.ambient": "Pulcino pigola",
+  "subtitles.entity.baby_chicken.death": "Pulcino muore",
+  "subtitles.entity.baby_chicken.hurts": "Pulcino ferito",
+  "subtitles.entity.baby_pig.ambient": "Porcellino grugnisce",
+  "subtitles.entity.baby_pig.death": "Porcellino muore",
+  "subtitles.entity.baby_pig.eat": "Porcellino mangia",
+  "subtitles.entity.baby_pig.hurt": "Porcellino ferito",
+  "subtitles.entity.baby_wolf.ambient": "Lupetto guaisce",
+  "subtitles.entity.baby_wolf.death": "Lupetto muore",
+  "subtitles.entity.baby_wolf.growl": "Lupetto ringhia",
+  "subtitles.entity.baby_wolf.hurt": "Lupetto ferito",
+  "subtitles.entity.baby_wolf.pant": "Lupetto ansima",
+  "subtitles.entity.baby_wolf.whine": "Lupetto si lamenta",
+  "subtitles.entity.pig.eat": "Maiale mangia"
+}

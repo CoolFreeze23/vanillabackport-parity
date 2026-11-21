@@ -1,0 +1,6 @@
+{
+  "death.attack.spear": "%1$s이(가) %2$s에게 창으로 찔렸습니다",
+  "death.attack.spear.item": "%1$s이(가) %3$s을(를) 사용한 %2$s에게 창으로 찔렸습니다",
+  "subtitles.entity.parrot.imitate.zombie_horse": "앵무새가 그르렁거리는 소리를 흉내 냄",
+  "subtitles.item.saddle.unequip": "안장을 벗김"
+}

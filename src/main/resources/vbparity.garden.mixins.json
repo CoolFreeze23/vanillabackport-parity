@@ -1,0 +1,42 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.coolfreeze23.vbparity.garden.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "AvoidEntityGoalMixin",
+    "BeeMixin",
+    "BeePollinateGoalMixin",
+    "BiomeGenerationMixin",
+    "BlockBehaviourAccessor",
+    "BlockPropertiesAccessor",
+    "BlockStateBaseAccessor",
+    "BoatMixin",
+    "CreakingAiMixin",
+    "CreakingHeartBlockEntityInvoker",
+    "CreakingHeartBlockEntityMixin",
+    "CreakingHeartBlockMixin",
+    "CreakingMixin",
+    "CreakingPathBudgetMixin",
+    "CreakingPhysicsMixin",
+    "DefaultKnockbackMixin",
+    "ExplosionMixin",
+    "EyeblossomBlockMixin",
+    "HangingMossBlockMixin",
+    "MossyCarpetBlockMixin",
+    "OverworldBiomeBuilderMixin",
+    "PaleMossBlockMixin",
+    "PathFinderAccessor",
+    "PathNavigationAccessor",
+    "PlayerSensorMixin",
+    "RamTargetKnockbackMixin",
+    "SimpleBlockFeatureMixin",
+    "SweepKnockbackMixin"
+  ],
+  "client": [
+    "client.MusicFadeManagerMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

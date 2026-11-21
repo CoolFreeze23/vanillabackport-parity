@@ -1,0 +1,57 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/filled_map",
+    "layer1": "minecraft:item/filled_map_markings"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 2633001
+      },
+      "model": "minecraft:item/abandoned_camp_map"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2633002
+      },
+      "model": "minecraft:item/buried_ancient_city_map"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2633003
+      },
+      "model": "minecraft:item/buried_trial_chambers_map"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2633004
+      },
+      "model": "minecraft:item/buried_mineshaft_map"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2633005
+      },
+      "model": "minecraft:item/desert_pyramid_map"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2633006
+      },
+      "model": "minecraft:item/jungle_pyramid_map"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2633007
+      },
+      "model": "minecraft:item/warm_ocean_ruins_map"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2633008
+      },
+      "model": "minecraft:item/woodland_mansion_map"
+    }
+  ]
+}

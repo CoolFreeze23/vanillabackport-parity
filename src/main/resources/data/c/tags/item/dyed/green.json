@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:green_wool_stairs",
+    "minecraft:green_wool_slab",
+    "minecraft:green_concrete_stairs",
+    "minecraft:green_concrete_slab",
+    "minecraft:green_bundle",
+    "minecraft:green_harness",
+    "minecraft:green_cushion"
+  ],
+  "remove": [
+    "minecraft:gray_cushion"
+  ]
+}

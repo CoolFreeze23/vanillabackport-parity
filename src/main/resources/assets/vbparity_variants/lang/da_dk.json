@@ -1,0 +1,23 @@
+{
+  "subtitles.entity.baby_cat.ambient": "Katteunge mijaver",
+  "subtitles.entity.baby_cat.beg_for_food": "Katteunge tigger",
+  "subtitles.entity.baby_cat.death": "Katteunge dør",
+  "subtitles.entity.baby_cat.eat": "Katteunge spiser",
+  "subtitles.entity.baby_cat.hiss": "Katteunge hvæser",
+  "subtitles.entity.baby_cat.hurt": "Katteunge skades",
+  "subtitles.entity.baby_cat.purr": "Katteunge spinder",
+  "subtitles.entity.baby_chicken.ambient": "Kyllingeunge pipper",
+  "subtitles.entity.baby_chicken.death": "Kyllingeunge dør",
+  "subtitles.entity.baby_chicken.hurts": "Kyllingeunge skades",
+  "subtitles.entity.baby_pig.ambient": "Griseunge øffer",
+  "subtitles.entity.baby_pig.death": "Griseunge dør",
+  "subtitles.entity.baby_pig.eat": "Griseunge spiser",
+  "subtitles.entity.baby_pig.hurt": "Griseunge skades",
+  "subtitles.entity.baby_wolf.ambient": "Hvalp piver",
+  "subtitles.entity.baby_wolf.death": "Hvalp dør",
+  "subtitles.entity.baby_wolf.growl": "Hvalp knurrer",
+  "subtitles.entity.baby_wolf.hurt": "Hvalp skades",
+  "subtitles.entity.baby_wolf.pant": "Hvalp gisper",
+  "subtitles.entity.baby_wolf.whine": "Hvalp jamre",
+  "subtitles.entity.pig.eat": "Gris spiser"
+}

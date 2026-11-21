@@ -1,0 +1,23 @@
+{
+  "subtitles.entity.baby_cat.ambient": "새끼 고양이가 욺",
+  "subtitles.entity.baby_cat.beg_for_food": "새끼 고양이가 구걸함",
+  "subtitles.entity.baby_cat.death": "새끼 고양이가 죽음",
+  "subtitles.entity.baby_cat.eat": "새끼 고양이가 먹음",
+  "subtitles.entity.baby_cat.hiss": "새끼 고양이가 쉬익거림",
+  "subtitles.entity.baby_cat.hurt": "새끼 고양이가 상처를 입음",
+  "subtitles.entity.baby_cat.purr": "새끼 고양이가 가르랑거림",
+  "subtitles.entity.baby_chicken.ambient": "병아리가 삐약거림",
+  "subtitles.entity.baby_chicken.death": "병아리가 죽음",
+  "subtitles.entity.baby_chicken.hurts": "병아리가 상처를 입음",
+  "subtitles.entity.baby_pig.ambient": "새끼 돼지가 꿀꿀거림",
+  "subtitles.entity.baby_pig.death": "새끼 돼지가 죽음",
+  "subtitles.entity.baby_pig.eat": "새끼 돼지가 먹음",
+  "subtitles.entity.baby_pig.hurt": "새끼 돼지가 상처를 입음",
+  "subtitles.entity.baby_wolf.ambient": "새끼 늑대가 욺",
+  "subtitles.entity.baby_wolf.death": "새끼 늑대가 죽음",
+  "subtitles.entity.baby_wolf.growl": "새끼 늑대가 으르렁거림",
+  "subtitles.entity.baby_wolf.hurt": "새끼 늑대가 상처를 입음",
+  "subtitles.entity.baby_wolf.pant": "새끼 늑대가 헐떡임",
+  "subtitles.entity.baby_wolf.whine": "새끼 늑대가 낑낑거림",
+  "subtitles.entity.pig.eat": "돼지가 먹음"
+}

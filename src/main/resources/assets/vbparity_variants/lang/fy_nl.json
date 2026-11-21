@@ -1,0 +1,23 @@
+{
+  "subtitles.entity.baby_cat.ambient": "Kitten meows",
+  "subtitles.entity.baby_cat.beg_for_food": "Kitten begs",
+  "subtitles.entity.baby_cat.death": "Kitten dies",
+  "subtitles.entity.baby_cat.eat": "Kitten eats",
+  "subtitles.entity.baby_cat.hiss": "Kitten hisses",
+  "subtitles.entity.baby_cat.hurt": "Jongkat rekket ferwûne",
+  "subtitles.entity.baby_cat.purr": "Kitten purrs",
+  "subtitles.entity.baby_chicken.ambient": "Pykje pipet",
+  "subtitles.entity.baby_chicken.death": "Pykje giet dea",
+  "subtitles.entity.baby_chicken.hurts": "Pykje rekket ferwûne",
+  "subtitles.entity.baby_pig.ambient": "Baby Pig oinks",
+  "subtitles.entity.baby_pig.death": "Baby Pig dies",
+  "subtitles.entity.baby_pig.eat": "Baby Pig eats",
+  "subtitles.entity.baby_pig.hurt": "Baby Pig hurts",
+  "subtitles.entity.baby_wolf.ambient": "Puppy yips",
+  "subtitles.entity.baby_wolf.death": "Puppy dies",
+  "subtitles.entity.baby_wolf.growl": "Puppy growls",
+  "subtitles.entity.baby_wolf.hurt": "Wolfke rekket ferwûne",
+  "subtitles.entity.baby_wolf.pant": "Puppy pants",
+  "subtitles.entity.baby_wolf.whine": "Puppy whines",
+  "subtitles.entity.pig.eat": "Pig eats"
+}

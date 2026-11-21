@@ -1,0 +1,23 @@
+{
+  "subtitles.entity.baby_cat.ambient": "Anak Kucing mengeong",
+  "subtitles.entity.baby_cat.beg_for_food": "Anak Kucing meminta",
+  "subtitles.entity.baby_cat.death": "Anak Kucing mati",
+  "subtitles.entity.baby_cat.eat": "Anak Kucing makan",
+  "subtitles.entity.baby_cat.hiss": "Anak Kucing mendesis",
+  "subtitles.entity.baby_cat.hurt": "Anak Kucing terluka",
+  "subtitles.entity.baby_cat.purr": "Anak Kucing mendengkur",
+  "subtitles.entity.baby_chicken.ambient": "Anak Ayam berkeciak",
+  "subtitles.entity.baby_chicken.death": "Anak Ayam mati",
+  "subtitles.entity.baby_chicken.hurts": "Anak Ayam terluka",
+  "subtitles.entity.baby_pig.ambient": "Anak Babi menguik",
+  "subtitles.entity.baby_pig.death": "Anak Babi mati",
+  "subtitles.entity.baby_pig.eat": "Anak Babi makan",
+  "subtitles.entity.baby_pig.hurt": "Anak Babi terluka",
+  "subtitles.entity.baby_wolf.ambient": "Anak Serigala menyalak",
+  "subtitles.entity.baby_wolf.death": "Anak Serigala mati",
+  "subtitles.entity.baby_wolf.growl": "Anak Serigala menggeram",
+  "subtitles.entity.baby_wolf.hurt": "Anak Serigala terluka",
+  "subtitles.entity.baby_wolf.pant": "Anak Serigala terengah-engah",
+  "subtitles.entity.baby_wolf.whine": "Anak Serigala berdengking",
+  "subtitles.entity.pig.eat": "Babi makan"
+}

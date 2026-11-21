@@ -1,0 +1,30 @@
+{
+  "values": [
+    "minecraft:player",
+    "minecraft:elder_guardian",
+    "minecraft:cod",
+    "minecraft:pufferfish",
+    "minecraft:salmon",
+    "minecraft:tropical_fish",
+    "minecraft:dolphin",
+    "minecraft:squid",
+    "minecraft:glow_squid",
+    "minecraft:tadpole",
+    {
+      "id": "minecraft:creaking",
+      "required": false
+    },
+    {
+      "id": "minecraft:nautilus",
+      "required": false
+    },
+    {
+      "id": "minecraft:zombie_nautilus",
+      "required": false
+    },
+    {
+      "id": "minecraft:sulfur_cube",
+      "required": false
+    }
+  ]
+}

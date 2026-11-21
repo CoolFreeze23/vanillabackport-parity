@@ -1,0 +1,23 @@
+{
+  "subtitles.entity.baby_cat.ambient": "Kassipoeg näugub",
+  "subtitles.entity.baby_cat.beg_for_food": "Kassipoeg palub",
+  "subtitles.entity.baby_cat.death": "Kassipoeg sureb",
+  "subtitles.entity.baby_cat.eat": "Kassipoeg sööb",
+  "subtitles.entity.baby_cat.hiss": "Kassipoeg sisiseb",
+  "subtitles.entity.baby_cat.hurt": "Kassipojal valutab",
+  "subtitles.entity.baby_cat.purr": "Kassipoeg nurrub",
+  "subtitles.entity.baby_chicken.ambient": "Tibu siutsub",
+  "subtitles.entity.baby_chicken.death": "Tibu sureb",
+  "subtitles.entity.baby_chicken.hurts": "Tibul valutab",
+  "subtitles.entity.baby_pig.ambient": "Põrsas röhitseb",
+  "subtitles.entity.baby_pig.death": "Põrsas sureb",
+  "subtitles.entity.baby_pig.eat": "Põrsas sööb",
+  "subtitles.entity.baby_pig.hurt": "Põrsal valutab",
+  "subtitles.entity.baby_wolf.ambient": "Hundikutsikas klähvib",
+  "subtitles.entity.baby_wolf.death": "Hundikutsikas sureb",
+  "subtitles.entity.baby_wolf.growl": "Hundikutsikas uriseb",
+  "subtitles.entity.baby_wolf.hurt": "Hundikutsikal valutab",
+  "subtitles.entity.baby_wolf.pant": "Hundikutsikas hingeldab",
+  "subtitles.entity.baby_wolf.whine": "Hundikutsikas vingub",
+  "subtitles.entity.pig.eat": "Siga sööb"
+}

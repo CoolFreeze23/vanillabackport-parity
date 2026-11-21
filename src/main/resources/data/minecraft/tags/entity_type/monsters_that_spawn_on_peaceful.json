@@ -1,0 +1,24 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:camel_husk",
+      "required": false
+    },
+    "minecraft:ender_dragon",
+    "minecraft:piglin",
+    "minecraft:shulker",
+    {
+      "id": "minecraft:sulfur_cube",
+      "required": false
+    },
+    "minecraft:zombie_horse",
+    {
+      "id": "minecraft:zombie_nautilus",
+      "required": false
+    }
+  ],
+  "remove": [
+    "minecraft:hoglin"
+  ]
+}

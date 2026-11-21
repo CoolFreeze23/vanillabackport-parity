@@ -1,0 +1,23 @@
+{
+  "subtitles.entity.baby_cat.ambient": "Maullido de gatito",
+  "subtitles.entity.baby_cat.beg_for_food": "Gatito pide comida",
+  "subtitles.entity.baby_cat.death": "Gatito muere",
+  "subtitles.entity.baby_cat.eat": "Gatito come",
+  "subtitles.entity.baby_cat.hiss": "Siseo de gatito",
+  "subtitles.entity.baby_cat.hurt": "Gatito herido",
+  "subtitles.entity.baby_cat.purr": "Ronroneo de gatito",
+  "subtitles.entity.baby_chicken.ambient": "Pollito pía",
+  "subtitles.entity.baby_chicken.death": "Pollito muere",
+  "subtitles.entity.baby_chicken.hurts": "Pollito herido",
+  "subtitles.entity.baby_pig.ambient": "Gruñido de chanchito",
+  "subtitles.entity.baby_pig.death": "Chanchito muere",
+  "subtitles.entity.baby_pig.eat": "Chanchito come",
+  "subtitles.entity.baby_pig.hurt": "Chanchito herido",
+  "subtitles.entity.baby_wolf.ambient": "Cachorro aúlla",
+  "subtitles.entity.baby_wolf.death": "Cachorro muere",
+  "subtitles.entity.baby_wolf.growl": "Gruñido de cachorro",
+  "subtitles.entity.baby_wolf.hurt": "Cachorro herido",
+  "subtitles.entity.baby_wolf.pant": "Jadeo de cachorro",
+  "subtitles.entity.baby_wolf.whine": "Lloriqueo de cachorro",
+  "subtitles.entity.pig.eat": "Chancho come"
+}

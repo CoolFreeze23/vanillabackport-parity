@@ -1,0 +1,23 @@
+{
+  "subtitles.entity.baby_cat.ambient": "Gatito maúya",
+  "subtitles.entity.baby_cat.beg_for_food": "Gatito pide comida",
+  "subtitles.entity.baby_cat.death": "Gatito muere",
+  "subtitles.entity.baby_cat.eat": "Gatito come",
+  "subtitles.entity.baby_cat.hiss": "Gatito bufa",
+  "subtitles.entity.baby_cat.hurt": "Gatito erío",
+  "subtitles.entity.baby_cat.purr": "Gatito ronronea",
+  "subtitles.entity.baby_chicken.ambient": "Poyito pía",
+  "subtitles.entity.baby_chicken.death": "Poyito muere",
+  "subtitles.entity.baby_chicken.hurts": "Poyito erío",
+  "subtitles.entity.baby_pig.ambient": "Lexón gruñe",
+  "subtitles.entity.baby_pig.death": "Lexón muere",
+  "subtitles.entity.baby_pig.eat": "Lexón come",
+  "subtitles.entity.baby_pig.hurt": "Lexón erío",
+  "subtitles.entity.baby_wolf.ambient": "Lobênno ladra",
+  "subtitles.entity.baby_wolf.death": "Lobênno muere",
+  "subtitles.entity.baby_wolf.growl": "Lobênno gruñe",
+  "subtitles.entity.baby_wolf.hurt": "Lobênno erío",
+  "subtitles.entity.baby_wolf.pant": "Lobênno hadea",
+  "subtitles.entity.baby_wolf.whine": "Lobênno himotea",
+  "subtitles.entity.pig.eat": "Çerdo come"
+}

@@ -1,0 +1,23 @@
+{
+  "subtitles.entity.baby_cat.ambient": "Gatito maúlla",
+  "subtitles.entity.baby_cat.beg_for_food": "Gatito pidiendo comida",
+  "subtitles.entity.baby_cat.death": "Gatito muerto",
+  "subtitles.entity.baby_cat.eat": "Gatito comiendo",
+  "subtitles.entity.baby_cat.hiss": "Bufido de gatito",
+  "subtitles.entity.baby_cat.hurt": "Gatito herido",
+  "subtitles.entity.baby_cat.purr": "Ronroneo de gatito",
+  "subtitles.entity.baby_chicken.ambient": "Pollito pía",
+  "subtitles.entity.baby_chicken.death": "Pollito muerto",
+  "subtitles.entity.baby_chicken.hurts": "Pollito herido",
+  "subtitles.entity.baby_pig.ambient": "Gruñido de cerdito",
+  "subtitles.entity.baby_pig.death": "Cerdito muerto",
+  "subtitles.entity.baby_pig.eat": "Cerdito comiendo",
+  "subtitles.entity.baby_pig.hurt": "Cerdito herido",
+  "subtitles.entity.baby_wolf.ambient": "Cachorro ladrando",
+  "subtitles.entity.baby_wolf.death": "Cachorro muerto",
+  "subtitles.entity.baby_wolf.growl": "Gruñido de cachorro",
+  "subtitles.entity.baby_wolf.hurt": "Cachorro herido",
+  "subtitles.entity.baby_wolf.pant": "Jadeo de cachorro",
+  "subtitles.entity.baby_wolf.whine": "Cachorro lloriqueando",
+  "subtitles.entity.pig.eat": "Cerdo comiendo"
+}

@@ -1,0 +1,23 @@
+{
+  "subtitles.entity.baby_cat.ambient": "Gatín que miaga",
+  "subtitles.entity.baby_cat.beg_for_food": "Gatín que pide",
+  "subtitles.entity.baby_cat.death": "Gatín que muerre",
+  "subtitles.entity.baby_cat.eat": "Gatín que come",
+  "subtitles.entity.baby_cat.hiss": "Gatín que xibla",
+  "subtitles.entity.baby_cat.hurt": "Gatín mancáu",
+  "subtitles.entity.baby_cat.purr": "Gatín que runxe",
+  "subtitles.entity.baby_chicken.ambient": "Pitín que pía",
+  "subtitles.entity.baby_chicken.death": "Pitín que muerre",
+  "subtitles.entity.baby_chicken.hurts": "Pitín mancáu",
+  "subtitles.entity.baby_pig.ambient": "Oinc de bebé piglin",
+  "subtitles.entity.baby_pig.death": "Gochín que muerre",
+  "subtitles.entity.baby_pig.eat": "Gochín que come",
+  "subtitles.entity.baby_pig.hurt": "Gochín mancáu",
+  "subtitles.entity.baby_wolf.ambient": "Cachorru que lladra",
+  "subtitles.entity.baby_wolf.death": "Cachorru que muerre",
+  "subtitles.entity.baby_wolf.growl": "Cachorru qu'urnia",
+  "subtitles.entity.baby_wolf.hurt": "Cachorru mancáu",
+  "subtitles.entity.baby_wolf.pant": "Cachorru qu'aflana",
+  "subtitles.entity.baby_wolf.whine": "Cachorru que gañe",
+  "subtitles.entity.pig.eat": "Gochu que come"
+}

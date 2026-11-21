@@ -1,0 +1,47 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.coolfreeze23.vbparity.copper.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "AxeItemMixin",
+    "CarvedPumpkinBlockMixin",
+    "ChangeOverTimeBlockMixin",
+    "ComparatorBlockMixin",
+    "ContainerManagerMixin",
+    "ContainerOpenersCounterAdapterMixin",
+    "ContainerOpenersCounterMixin",
+    "CopperChestBlockMixin",
+    "CopperGolemAntennaMixin",
+    "CopperGolemMixin",
+    "CopperGolemPathNavigationMixin",
+    "CopperGolemStatueBlockMixin",
+    "HoneycombItemMixin",
+    "IronBarsBlockMixin",
+    "LightningBoltMixin",
+    "LightningRodBlockMixin",
+    "LightningRodPlaceMixin",
+    "MobEquipmentMixin",
+    "OfferCopperGolemFlowerGoalMixin",
+    "OfferFlowerGoalMixin",
+    "ServerLevelLightningRodMixin",
+    "ShelfBlockMixin",
+    "SpawnEquipmentRegistryMixin",
+    "TransportItemsBetweenContainersMixin"
+  ],
+  "client": [
+    "client.BlockDecorationLayerMixin",
+    "client.CopperGolemModelMixin",
+    "client.CopperGolemRendererMixin",
+    "client.CopperGolemStatueItemRendererMixin",
+    "client.CopperGolemStatueRendererMixin",
+    "client.ItemRendererMixin",
+    "client.ItemTransformsDeserializerMixin",
+    "client.ShelfRendererMixin",
+    "client.SimpleEquipmentLayerMixin",
+    "client.SpearRendererMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "criteria": {
+    "shear": {
+      "trigger": "minecraft:player_sheared_equipment",
+      "conditions": {
+        "item": {"items": "minecraft:iron_nautilus_armor"},
+        "entity": [{"condition": "minecraft:entity_properties", "entity": "this", "predicate": {"type": "minecraft:nautilus"}}]
+      }
+    }
+  },
+  "requirements": [["shear"]]
+}

@@ -1,0 +1,23 @@
+{
+  "subtitles.entity.baby_cat.ambient": "Ngumiyaw ang Kuting",
+  "subtitles.entity.baby_cat.beg_for_food": "Humingi ang Kuting",
+  "subtitles.entity.baby_cat.death": "Namatay ang Kuting",
+  "subtitles.entity.baby_cat.eat": "Kumain ang Kuting",
+  "subtitles.entity.baby_cat.hiss": "Ngumasing ang Kuting",
+  "subtitles.entity.baby_cat.hurt": "Nasaktan ang Kuting",
+  "subtitles.entity.baby_cat.purr": "Ngumangarab ang Kuting",
+  "subtitles.entity.baby_chicken.ambient": "Sumiyap ang Sisiw",
+  "subtitles.entity.baby_chicken.death": "Namatay ang Sisiw",
+  "subtitles.entity.baby_chicken.hurts": "Nasaktan ang Sisiw",
+  "subtitles.entity.baby_pig.ambient": "Suminghal ang Biik",
+  "subtitles.entity.baby_pig.death": "Namatay ang Biik",
+  "subtitles.entity.baby_pig.eat": "Kumain ang Biik",
+  "subtitles.entity.baby_pig.hurt": "Nasaktan ang Biik",
+  "subtitles.entity.baby_wolf.ambient": "Tumakin ang Tuta",
+  "subtitles.entity.baby_wolf.death": "Namatay ang Tuta",
+  "subtitles.entity.baby_wolf.growl": "Umangil ang Tuta",
+  "subtitles.entity.baby_wolf.hurt": "Nasaktan ang Tuta",
+  "subtitles.entity.baby_wolf.pant": "Humingal ang Tuta",
+  "subtitles.entity.baby_wolf.whine": "Umangal ang Tuta",
+  "subtitles.entity.pig.eat": "Kumain ang Baboy"
+}

@@ -1,0 +1,23 @@
+{
+  "subtitles.entity.baby_cat.ambient": "Chätzli miaut",
+  "subtitles.entity.baby_cat.beg_for_food": "Chätzli bettlet",
+  "subtitles.entity.baby_cat.death": "Chätzli stirbt",
+  "subtitles.entity.baby_cat.eat": "Chätzli frisst",
+  "subtitles.entity.baby_cat.hiss": "Chätzli faucht",
+  "subtitles.entity.baby_cat.hurt": "Chätzli nimmt Schade",
+  "subtitles.entity.baby_cat.purr": "Chätzli schnurrt",
+  "subtitles.entity.baby_chicken.ambient": "Bibeli piepst",
+  "subtitles.entity.baby_chicken.death": "Bibeli stirbt",
+  "subtitles.entity.baby_chicken.hurts": "Bibeli nimmt Schade",
+  "subtitles.entity.baby_pig.ambient": "Ferkel grunzt",
+  "subtitles.entity.baby_pig.death": "Ferkel stirbt",
+  "subtitles.entity.baby_pig.eat": "Ferkel frisst",
+  "subtitles.entity.baby_pig.hurt": "Ferkel nimmt Schade",
+  "subtitles.entity.baby_wolf.ambient": "Welpe jault",
+  "subtitles.entity.baby_wolf.death": "Welpe stirbt",
+  "subtitles.entity.baby_wolf.growl": "Welpe chnurrt",
+  "subtitles.entity.baby_wolf.hurt": "Welpe nimmt Schade",
+  "subtitles.entity.baby_wolf.pant": "Welpe hechlet",
+  "subtitles.entity.baby_wolf.whine": "Welpe winslet",
+  "subtitles.entity.pig.eat": "Schwii frisst"
+}

@@ -1,0 +1,20 @@
+{
+  "entity.minecraft.creaking_transient": "Creaking",
+  "entity.minecraft.pale_oak_boat": "Pale Oak Boat",
+  "entity.minecraft.pale_oak_chest_boat": "Pale Oak Boat with Chest",
+  "entity.minecraft.poplar_boat": "Poplar Boat",
+  "entity.minecraft.poplar_chest_boat": "Poplar Boat with Chest",
+  "item.minecraft.buried_ancient_city_map": "Buried Ancient City Map",
+  "item.minecraft.buried_mineshaft_map": "Buried Mineshaft Map",
+  "item.minecraft.buried_trial_chambers_map": "Buried Trial Chambers Map",
+  "item.minecraft.desert_pyramid_map": "Desert Pyramid Map",
+  "item.minecraft.jungle_pyramid_map": "Jungle Pyramid Map",
+  "item.minecraft.poplar_chest_boat": "Poplar Boat with Chest",
+  "item.minecraft.resin_clump": "Resin Clump",
+  "item.minecraft.straw_bed": "Straw Bed",
+  "item.minecraft.warm_ocean_ruins_map": "Warm Ocean Ruins Map",
+  "item.minecraft.woodland_mansion_map": "Woodland Mansion Map",
+  "stat.minecraft.sleep_in_straw_bed": "Times Slept in a Straw Bed",
+  "subtitles.entity.zombie_nautilus.ambient": "Zombie Nautilus burbles",
+  "subtitles.entity.zombie_nautilus.ambient_land": "Zombie Nautilus burbles"
+}

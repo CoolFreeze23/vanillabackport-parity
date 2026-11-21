@@ -1,0 +1,18 @@
+{
+  "block.minecraft.copper_wall_torch": "Copper Wall Torch",
+  "item.minecraft.field_masoned_banner_pattern": "Field Masoned Banner Pattern",
+  "item.minecraft.bordure_indented_banner_pattern": "Bordure Indented Banner Pattern",
+  "argument.hexcolor.invalid": "Invalid hex color code '%s'",
+  "options.hideLightningFlashes": "Hide Sky Flashes",
+  "options.hideLightningFlashes.tooltip": "Prevents Lightning Bolts or other environmental effects from making the sky flash. The sources of flashes themselves will still be visible.",
+  "subtitles.item.lead.tied": "Lead tied",
+  "subtitles.item.lead.untied": "Lead untied",
+  "subtitles.item.shears.snip": "Shears snip",
+  "subtitles.entity.zombie_nautilus.ambient": "Zombie Nautilus burbles",
+  "subtitles.entity.zombie_nautilus.ambient_land": "Zombie Nautilus burbles",
+  "subtitles.item.horse_armor.unequip": "Horse Armor snips away",
+  "subtitles.item.llama_carpet.unequip": "Carpet snips away",
+  "subtitles.item.saddle.unequip": "Saddle snips away",
+  "options.renderCloudsDistance": "Cloud Distance",
+  "commands.summon.failed.peaceful": "Monsters cannot be summoned in Peaceful difficulty"
+}

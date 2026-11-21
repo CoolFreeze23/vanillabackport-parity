@@ -1,0 +1,26 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.coolfreeze23.vbparity.flora.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "CactusBlockMixin",
+    "ChunkGeneratorMixin",
+    "EatBlockGoalMixin",
+    "FallenTreeFeatureInvoker",
+    "FallenTreeFeatureMixin",
+    "FallingBlockMixin",
+    "FeatureSorterMixin",
+    "FireflyBushBlockMixin",
+    "GrassBlockMixin",
+    "NoiseBasedChunkGeneratorInvoker"
+  ],
+  "client": [
+    "client.AmbientDesertBlockSoundsPlayerMixin",
+    "client.FireflyParticleMixin",
+    "client.LeafColorsMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.coolfreeze23.vbparity.shared.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "ServerAdvancementManagerMixin"
+  ],
+  "client": [],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

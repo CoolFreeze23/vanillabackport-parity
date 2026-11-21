@@ -1,0 +1,23 @@
+{
+  "subtitles.entity.baby_cat.ambient": "Kitten meows",
+  "subtitles.entity.baby_cat.beg_for_food": "Kitten begs",
+  "subtitles.entity.baby_cat.death": "Kitten dies",
+  "subtitles.entity.baby_cat.eat": "Kitten eats",
+  "subtitles.entity.baby_cat.hiss": "Kitten hisses",
+  "subtitles.entity.baby_cat.hurt": "Kitten hurts",
+  "subtitles.entity.baby_cat.purr": "Kitten purrs",
+  "subtitles.entity.baby_chicken.ambient": "Chick peeps",
+  "subtitles.entity.baby_chicken.death": "Chick dies",
+  "subtitles.entity.baby_chicken.hurts": "Chick hurts",
+  "subtitles.entity.baby_pig.ambient": "Piglet oinks",
+  "subtitles.entity.baby_pig.death": "Piglet dies",
+  "subtitles.entity.baby_pig.eat": "Piglet eats",
+  "subtitles.entity.baby_pig.hurt": "Piglet hurts",
+  "subtitles.entity.baby_wolf.ambient": "Puppy yips",
+  "subtitles.entity.baby_wolf.death": "Puppy dies",
+  "subtitles.entity.baby_wolf.growl": "Puppy growls",
+  "subtitles.entity.baby_wolf.hurt": "Puppy hurts",
+  "subtitles.entity.baby_wolf.pant": "Puppy pants",
+  "subtitles.entity.baby_wolf.whine": "Puppy whines",
+  "subtitles.entity.pig.eat": "Pig eats"
+}

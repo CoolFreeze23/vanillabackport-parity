@@ -1,0 +1,23 @@
+{
+  "subtitles.entity.baby_cat.ambient": "Chaton a miaoner",
+  "subtitles.entity.baby_cat.beg_for_food": "Chaton a chiner",
+  "subtitles.entity.baby_cat.death": "Chaton a se mouri",
+  "subtitles.entity.baby_cat.eat": "Chaton a manjer",
+  "subtitles.entity.baby_cat.hiss": "Chaton a subller",
+  "subtitles.entity.baby_cat.hurt": "Chaton a soufri",
+  "subtitles.entity.baby_cat.purr": "Chaton a ronroner",
+  "subtitles.entity.baby_chicken.ambient": "Pouliao a tuiter",
+  "subtitles.entity.baby_chicken.death": "Poule a se mouri",
+  "subtitles.entity.baby_chicken.hurts": "Poule a soufri",
+  "subtitles.entity.baby_pig.ambient": "Courot a grouiner",
+  "subtitles.entity.baby_pig.death": "Courot a se mouri",
+  "subtitles.entity.baby_pig.eat": "Courot a roucher",
+  "subtitles.entity.baby_pig.hurt": "Courot a soufri",
+  "subtitles.entity.baby_wolf.ambient": "Loutè a yaper",
+  "subtitles.entity.baby_wolf.death": "Loutè a se mouri",
+  "subtitles.entity.baby_wolf.growl": "Loutè a grousser",
+  "subtitles.entity.baby_wolf.hurt": "Loutè a soufri",
+  "subtitles.entity.baby_wolf.pant": "Loutè a baqheurer",
+  "subtitles.entity.baby_wolf.whine": "Loutè a pigner",
+  "subtitles.entity.pig.eat": "Pourcè a roucher"
+}

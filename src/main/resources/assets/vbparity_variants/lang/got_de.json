@@ -1,0 +1,23 @@
+{
+  "subtitles.entity.baby_cat.ambient": "𐌺𐌰𐍄𐍄𐌴𐌹𐌽 𐌵𐌹𐌸𐌹𐌸 𐌼𐌴𐌹𐌰𐍅",
+  "subtitles.entity.baby_cat.beg_for_food": "𐌺𐌰𐍄𐍄𐌴𐌹𐌽 𐌱𐌹𐌳𐌹𐌸",
+  "subtitles.entity.baby_cat.death": "𐌺𐌰𐍄𐍄𐌴𐌹𐌽 𐌲𐌰𐌳𐌰𐌿𐌸𐌽𐌹𐌸",
+  "subtitles.entity.baby_cat.eat": "𐌺𐌰𐍄𐍄𐌴𐌹𐌽 𐌹𐍄𐌹𐌸",
+  "subtitles.entity.baby_cat.hiss": "𐌺𐌰𐍄𐍄𐌴𐌹𐌽 𐍈𐌹𐍃𐍄𐌻𐍉𐌸",
+  "subtitles.entity.baby_cat.hurt": "𐌺𐌰𐍄𐍄𐌴𐌹𐌽 𐍅𐌹𐌽𐌽𐌹𐌸",
+  "subtitles.entity.baby_cat.purr": "𐌺𐌰𐍄𐍄𐌴𐌹𐌽 𐌵𐌹𐌸𐌹𐌸 𐍀𐍂𐍂",
+  "subtitles.entity.baby_chicken.ambient": "𐍆𐌿𐌲𐌻𐌴𐌹𐌽 𐍀𐌴𐌹𐍀𐌹𐌸",
+  "subtitles.entity.baby_chicken.death": "𐌷𐌰𐌽𐌴𐌹𐌽 𐌲𐌰𐌳𐌰𐌿𐌸𐌽𐌹𐌸",
+  "subtitles.entity.baby_chicken.hurts": "𐌷𐌰𐌽𐌴𐌹𐌽 𐍅𐌹𐌽𐌽𐌹𐌸",
+  "subtitles.entity.baby_pig.ambient": "𐍃𐍅𐌴𐌹𐌽𐌴𐌹𐌽 𐌲𐍂𐌿𐌽𐌽𐌹𐍄𐌾𐌹𐌸 𐌵𐌹𐌸𐌰𐌽𐌳𐍉 𐌰𐌿𐌹𐌲𐌲𐌺",
+  "subtitles.entity.baby_pig.death": "𐍃𐍅𐌴𐌹𐌽𐌴𐌹𐌽 𐌲𐌰𐌳𐌰𐌿𐌸𐌽𐌹𐌸",
+  "subtitles.entity.baby_pig.eat": "𐍃𐍅𐌴𐌹𐌽𐌴𐌹𐌽 𐌹𐍄𐌹𐌸",
+  "subtitles.entity.baby_pig.hurt": "𐍃𐍅𐌴𐌹𐌽𐌴𐌹𐌽 𐍅𐌹𐌽𐌽𐌹𐌸",
+  "subtitles.entity.baby_wolf.ambient": "𐍈𐌹𐌻𐍀𐍃 𐌲𐌹𐌻𐌻𐌹𐌸",
+  "subtitles.entity.baby_wolf.death": "𐍈𐌹𐌻𐍀𐍃 𐌲𐌰𐌳𐌰𐌿𐌸𐌽𐌹𐌸",
+  "subtitles.entity.baby_wolf.growl": "𐍈𐌹𐌻𐍀𐍃 𐌹𐌽𐍂𐌰𐌿𐌷𐍄𐌴𐌹𐌸",
+  "subtitles.entity.baby_wolf.hurt": "𐍈𐌹𐌻𐍀𐍃 𐍅𐌹𐌽𐌽𐌹𐌸",
+  "subtitles.entity.baby_wolf.pant": "𐍈𐌹𐌻𐍀𐍃 𐌰𐌽𐌹𐌸 𐌺𐌰𐌿𐍂𐌹𐌱𐌰",
+  "subtitles.entity.baby_wolf.whine": "𐍈𐌹𐌻𐍀𐍃 𐍈𐌴𐌹𐌽𐌹𐌸",
+  "subtitles.entity.pig.eat": "𐍃𐍅𐌴𐌹𐌽 𐌹𐍄𐌹𐌸"
+}

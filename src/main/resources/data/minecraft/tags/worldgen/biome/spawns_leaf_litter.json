@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:dappled_forest",
+      "required": false
+    }
+  ],
+  "remove": [
+    "minecraft:dark_forest",
+    "minecraft:forest",
+    "minecraft:wooded_badlands"
+  ]
+}

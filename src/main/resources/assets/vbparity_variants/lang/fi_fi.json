@@ -1,0 +1,23 @@
+{
+  "subtitles.entity.baby_cat.ambient": "Kissanpentu maukuu",
+  "subtitles.entity.baby_cat.beg_for_food": "Kissanpentu kerjää",
+  "subtitles.entity.baby_cat.death": "Kissanpentu kuolee",
+  "subtitles.entity.baby_cat.eat": "Kissanpentu syö",
+  "subtitles.entity.baby_cat.hiss": "Kissanpentu sähisee",
+  "subtitles.entity.baby_cat.hurt": "Kissanpentu vahingoittuu",
+  "subtitles.entity.baby_cat.purr": "Kissanpentu kehrää",
+  "subtitles.entity.baby_chicken.ambient": "Tipu piipittää",
+  "subtitles.entity.baby_chicken.death": "Tipu kuolee",
+  "subtitles.entity.baby_chicken.hurts": "Tipu vahingoittuu",
+  "subtitles.entity.baby_pig.ambient": "Porsas röhkii",
+  "subtitles.entity.baby_pig.death": "Porsas kuolee",
+  "subtitles.entity.baby_pig.eat": "Porsas syö",
+  "subtitles.entity.baby_pig.hurt": "Porsas vahingoittuu",
+  "subtitles.entity.baby_wolf.ambient": "Sudenpentu haukkuu",
+  "subtitles.entity.baby_wolf.death": "Sudenpentu kuolee",
+  "subtitles.entity.baby_wolf.growl": "Sudenpentu murisee",
+  "subtitles.entity.baby_wolf.hurt": "Sudenpentu vahingoittuu",
+  "subtitles.entity.baby_wolf.pant": "Sudenpentu läähättää",
+  "subtitles.entity.baby_wolf.whine": "Sudenpentu vinkuu",
+  "subtitles.entity.pig.eat": "Sika syö"
+}

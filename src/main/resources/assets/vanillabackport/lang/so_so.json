@@ -1,0 +1,18 @@
+{
+  "advancements.adventure.heart_transplanter.description": "Dhig wadne gariiraya oo isku toosan oo sax ah oo u dhexeeya laba baloog oo alwaax ah oo cirro leh",
+  "advancements.adventure.heart_transplanter.title": "Wadnaha Khabiirka Dhirta",
+  "advancements.adventure.spear_many_mobs.title": "Mob Kebab",
+  "advancements.husbandry.remove_wolf_armor.description": "Hubka Wolf uga saar Wolf adiga oo isticmaalaya Shears",
+  "advancements.husbandry.repair_wolf_armor.description": "Dib u hagaajin Wolf Armor ee dhaawacan adigoo isticmaalaya Armadillo Scutes",
+  "advancements.husbandry.repair_wolf_armor.title": "Wanaagsan sida Cusub",
+  "advancements.husbandry.whole_pack.description": "Qabo mid ka mid ah nooc kasta oo Wolf ah",
+  "advancements.husbandry.whole_pack.title": "Xidhmada oo dhan",
+  "block.minecraft.bush": "\tDhir yar",
+  "block.minecraft.cactus_flower": "Ubax Cactus",
+  "block.minecraft.closed_eyeblossom": "Indho-xiran Ubax",
+  "block.minecraft.pale_oak_fence_gate": "Albaabka Deedka Cad",
+  "item.minecraft.nautilus_shell": "Qolof Nautilus",
+  "options.hideLightningFlashes": "Qari hillaaca",
+  "subtitles.entity.copper_golem.no_item_get": "Copper Golem is picking up an item",
+  "subtitles.entity.copper_golem.no_item_no_get": "Copper Golem can't pick up an item"
+}

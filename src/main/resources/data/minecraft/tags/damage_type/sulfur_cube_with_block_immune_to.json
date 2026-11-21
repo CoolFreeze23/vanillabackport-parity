@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:spit",
+    "#minecraft:is_explosion",
+    {
+      "id": "minecraft:mace_smash",
+      "required": false
+    },
+    {
+      "id": "minecraft:spear",
+      "required": false
+    }
+  ]
+}

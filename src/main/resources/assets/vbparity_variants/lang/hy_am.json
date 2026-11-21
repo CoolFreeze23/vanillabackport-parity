@@ -1,0 +1,23 @@
+{
+  "subtitles.entity.baby_cat.ambient": "Կատվի ձագը մլավում է",
+  "subtitles.entity.baby_cat.beg_for_food": "Կատվի ձագը կեր է խնդրում",
+  "subtitles.entity.baby_cat.death": "Կատվի ձագը մահանում է",
+  "subtitles.entity.baby_cat.eat": "Կատվի ձագն ուտում է",
+  "subtitles.entity.baby_cat.hiss": "Կատվի ձագը ֆշշացնում է",
+  "subtitles.entity.baby_cat.hurt": "Կատվի ձագը վիրավոր է",
+  "subtitles.entity.baby_cat.purr": "Կատվի ձագը մռռում է",
+  "subtitles.entity.baby_chicken.ambient": "Ճուտիկը ծլվլում է",
+  "subtitles.entity.baby_chicken.death": "Ճուտիկը մահացել է",
+  "subtitles.entity.baby_chicken.hurts": "Ճուտիկը վիրավոր է",
+  "subtitles.entity.baby_pig.ambient": "Խոճկորը խռխռում է",
+  "subtitles.entity.baby_pig.death": "Խոճկորը մահանում է",
+  "subtitles.entity.baby_pig.eat": "Խոճկորն ուտում է",
+  "subtitles.entity.baby_pig.hurt": "Խոճկորը վիրավոր է",
+  "subtitles.entity.baby_wolf.ambient": "Գայլի ձագը հաչում է",
+  "subtitles.entity.baby_wolf.death": "Գայլի ձագը մահանում է",
+  "subtitles.entity.baby_wolf.growl": "Գայլի ձագը գռմռում է",
+  "subtitles.entity.baby_wolf.hurt": "Գայլի ձագը վիրավոր է",
+  "subtitles.entity.baby_wolf.pant": "Գայլի ձագը հևում է",
+  "subtitles.entity.baby_wolf.whine": "Գայլի ձագը ոռնում է",
+  "subtitles.entity.pig.eat": "Խոզն ուտում է"
+}

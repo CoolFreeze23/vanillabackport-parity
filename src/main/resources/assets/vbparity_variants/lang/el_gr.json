@@ -1,0 +1,23 @@
+{
+  "subtitles.entity.baby_cat.ambient": "Γατάκι νιαουρίζει",
+  "subtitles.entity.baby_cat.beg_for_food": "Γατάκι ζητιανεύει",
+  "subtitles.entity.baby_cat.death": "Γατάκι πεθαίνει",
+  "subtitles.entity.baby_cat.eat": "Γατάκι τρώει",
+  "subtitles.entity.baby_cat.hiss": "Γατάκι συρίζει",
+  "subtitles.entity.baby_cat.hurt": "Γατάκι τραυματίζεται",
+  "subtitles.entity.baby_cat.purr": "Γατάκι γουργουρίζει",
+  "subtitles.entity.baby_chicken.ambient": "Κλωσσόπουλο τιτιβίζει",
+  "subtitles.entity.baby_chicken.death": "Κλωσσόπουλο πεθαίνει",
+  "subtitles.entity.baby_chicken.hurts": "Κλωσσόπουλο τραυματίζεται",
+  "subtitles.entity.baby_pig.ambient": "Μωρό Γουρούνι γρυλίζει",
+  "subtitles.entity.baby_pig.death": "Μωρό Γουρούνι πεθαίνει",
+  "subtitles.entity.baby_pig.eat": "Μωρό Γουρούνι τρώει",
+  "subtitles.entity.baby_pig.hurt": "Μωρό Γουρούνι τραυματίζεται",
+  "subtitles.entity.baby_wolf.ambient": "Κουτάβι γαβγίζει",
+  "subtitles.entity.baby_wolf.death": "Κουτάβι πεθαίνει",
+  "subtitles.entity.baby_wolf.growl": "Κουτάβι γρυλίζει",
+  "subtitles.entity.baby_wolf.hurt": "Κουτάβι τραυματίζεται",
+  "subtitles.entity.baby_wolf.pant": "Κουτάβι γαβγίζει",
+  "subtitles.entity.baby_wolf.whine": "Κουτάβι βογκάει",
+  "subtitles.entity.pig.eat": "Γουρούνι τρώει"
+}

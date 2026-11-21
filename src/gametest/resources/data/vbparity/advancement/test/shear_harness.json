@@ -1,0 +1,12 @@
+{
+  "criteria": {
+    "shear": {
+      "trigger": "minecraft:player_sheared_equipment",
+      "conditions": {
+        "item": {"items": "minecraft:red_harness"},
+        "entity": [{"condition": "minecraft:entity_properties", "entity": "this", "predicate": {"type": "minecraft:happy_ghast"}}]
+      }
+    }
+  },
+  "requirements": [["shear"]]
+}

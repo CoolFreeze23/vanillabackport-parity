@@ -1,0 +1,105 @@
+plugins {
+    id 'java-library'
+    id 'net.neoforged.moddev' version '2.0.148'
+}
+
+version = mod_version
+group = mod_group_id
+base { archivesName = "vbparity-neoforge-1.21.1" }
+java.toolchain.languageVersion = JavaLanguageVersion.of(21)
+
+sourceSets {
+    gametest {
+        compileClasspath += sourceSets.main.output
+        runtimeClasspath += sourceSets.main.output
+    }
+    // Dev-only hidden client check; never part of the jar.
+    devcheck {
+        compileClasspath += sourceSets.main.output
+        runtimeClasspath += sourceSets.main.output
+    }
+}
+configurations {
+    gametestImplementation.extendsFrom implementation
+    gametestCompileOnly.extendsFrom compileOnly
+    gametestRuntimeOnly.extendsFrom runtimeOnly
+    devcheckImplementation.extendsFrom implementation
+    devcheckCompileOnly.extendsFrom compileOnly
+    devcheckRuntimeOnly.extendsFrom runtimeOnly
+}
+
+neoForge {
+    version = project.neo_version
+    addModdingDependenciesTo(sourceSets.gametest)
+    addModdingDependenciesTo(sourceSets.devcheck)
+    parchment {
+        mappingsVersion = project.parchment_mappings_version
+        minecraftVersion = project.parchment_minecraft_version
+    }
+    runs {
+        client {
+            client()
+            gameDirectory = project.file('run')
+            programArguments.addAll('--username', 'Dev')
+        }
+        server {
+            server()
+            gameDirectory = project.file('run')
+            programArgument '--nogui'
+        }
+        gameTestServer {
+            type = "gameTestServer"
+            sourceSet = sourceSets.gametest
+            gameDirectory = project.file('run-gametest')
+            systemProperty 'neoforge.enabledGameTestNamespaces', project.mod_id
+        }
+        devCheckClient {
+            client()
+            sourceSet = sourceSets.devcheck
+            gameDirectory = project.file('run-devcheck')
+            programArguments.addAll('--username', 'Dev', '--width', '1280', '--height', '720', '--fml.mixin.config', 'vbparity.devcheck.mixins.json')
+            systemProperty 'vbparity.devcheck', 'true'
+            jvmArguments.addAll('-Xmx3G', '-Xms1G')
+        }
+        configureEach { logLevel = org.slf4j.event.Level.INFO }
+    }
+    mods {
+        "${mod_id}" {
+            sourceSet(sourceSets.main)
+            sourceSet(sourceSets.gametest)
+            sourceSet(sourceSets.devcheck)
+        }
+    }
+}
+
+dependencies {
+    // VanillaBackport + its Platform library: compiled against, and loaded from run/mods at runtime.
+    compileOnly files("libs/VanillaBackport-neoforge-1.21.1-${vb_version}.jar", "libs/Platform-neoforge-1.21.1-1.4.2.jar")
+    devcheckCompileOnly files("libs/VanillaBackport-neoforge-1.21.1-${vb_version}.jar", "libs/Platform-neoforge-1.21.1-1.4.2.jar")
+    gametestCompileOnly files("libs/VanillaBackport-neoforge-1.21.1-${vb_version}.jar", "libs/Platform-neoforge-1.21.1-1.4.2.jar")
+}
+
+tasks.register('copyRuntimeMods', Copy) {
+    from('libs') { include '*.jar' }
+    into 'run/mods'
+    doLast {
+        copy { from('libs') { include '*.jar' }; into 'run-gametest/mods' }
+        copy { from('libs') { include '*.jar' }; into 'run-devcheck/mods' }
+    }
+}
+tasks.named('prepareDevCheckClientRun') { dependsOn 'copyRuntimeMods' }
+tasks.named('prepareClientRun') { dependsOn 'copyRuntimeMods' }
+tasks.named('prepareServerRun') { dependsOn 'copyRuntimeMods' }
+tasks.named('prepareGameTestServerRun') { dependsOn 'copyRuntimeMods' }
+
+tasks.withType(ProcessResources).configureEach {
+    var replaceProperties = [
+            minecraft_version_range: minecraft_version_range, neo_version_range: neo_version_range,
+            loader_version_range: loader_version_range, mod_id: mod_id, mod_name: mod_name,
+            mod_license: mod_license, mod_version: mod_version, mod_authors: mod_authors,
+            mod_description: mod_description, vb_version: vb_version,
+    ]
+    inputs.properties replaceProperties
+    filesMatching(['META-INF/neoforge.mods.toml']) { expand replaceProperties }
+}
+tasks.withType(JavaCompile).configureEach { options.encoding = 'UTF-8' }

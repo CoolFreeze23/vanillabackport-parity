@@ -1,0 +1,23 @@
+{
+  "subtitles.entity.baby_cat.ambient": "Piscín ag meamhlach",
+  "subtitles.entity.baby_cat.beg_for_food": "Piscín ag impí",
+  "subtitles.entity.baby_cat.death": "Piscín ag fáil bháis",
+  "subtitles.entity.baby_cat.eat": "Piscín ag ithe",
+  "subtitles.entity.baby_cat.hiss": "Piscín ag siosadh",
+  "subtitles.entity.baby_cat.hurt": "Piscín á ghortú",
+  "subtitles.entity.baby_cat.purr": "Piscín ag crónán",
+  "subtitles.entity.baby_chicken.ambient": "Sicín óg ag bíogarnach",
+  "subtitles.entity.baby_chicken.death": "Sicín óg ag fáil bháis",
+  "subtitles.entity.baby_chicken.hurts": "Sicín óg á ghortú",
+  "subtitles.entity.baby_pig.ambient": "Banbh ag gnúsachtach",
+  "subtitles.entity.baby_pig.death": "Banbh ag fáil bháis",
+  "subtitles.entity.baby_pig.eat": "Banbh ag ithe",
+  "subtitles.entity.baby_pig.hurt": "Banbh á ghortú",
+  "subtitles.entity.baby_wolf.ambient": "Coileán ag tafann",
+  "subtitles.entity.baby_wolf.death": "Coileán ag fáil bháis",
+  "subtitles.entity.baby_wolf.growl": "Coileán ag drantú",
+  "subtitles.entity.baby_wolf.hurt": "Coileán á ghortú",
+  "subtitles.entity.baby_wolf.pant": "Coileán ag cneadach",
+  "subtitles.entity.baby_wolf.whine": "Coileán ag geonaíl",
+  "subtitles.entity.pig.eat": "Muc ag ithe"
+}

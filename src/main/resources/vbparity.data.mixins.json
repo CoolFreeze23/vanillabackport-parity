@@ -1,0 +1,17 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.coolfreeze23.vbparity.data.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "AnimalXpMixin",
+    "LivingEntityXpInvoker",
+    "LootItemAccessor",
+    "LootPoolAccessor",
+    "LootTableAccessor"
+  ],
+  "client": [],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

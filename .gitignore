@@ -1,0 +1,8 @@
+.gradle/
+build/
+run/
+run-gametest/
+libs/
+dist/
+run-devcheck/
+__pycache__/

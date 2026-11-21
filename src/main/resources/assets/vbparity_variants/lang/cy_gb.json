@@ -1,0 +1,23 @@
+{
+  "subtitles.entity.baby_cat.ambient": "Cath fach yn mewian",
+  "subtitles.entity.baby_cat.beg_for_food": "Cath fach yn cardota",
+  "subtitles.entity.baby_cat.death": "Cath fach yn marw",
+  "subtitles.entity.baby_cat.eat": "Cath fach yn bwyta",
+  "subtitles.entity.baby_cat.hiss": "Cath fach yn hisian",
+  "subtitles.entity.baby_cat.hurt": "Cath fach yn brifo",
+  "subtitles.entity.baby_cat.purr": "Cath fach yn canu grwndi",
+  "subtitles.entity.baby_chicken.ambient": "Cyw yn pipian",
+  "subtitles.entity.baby_chicken.death": "Cyw yn marw",
+  "subtitles.entity.baby_chicken.hurts": "Cyw yn brifo",
+  "subtitles.entity.baby_pig.ambient": "Mochyn Bach yn rochian",
+  "subtitles.entity.baby_pig.death": "Mochyn Bach yn marw",
+  "subtitles.entity.baby_pig.eat": "Mochyn Bach yn bwyta",
+  "subtitles.entity.baby_pig.hurt": "Mochyn Bach yn brifo",
+  "subtitles.entity.baby_wolf.ambient": "Ci bach yn clepian",
+  "subtitles.entity.baby_wolf.death": "Ci bach yn marw",
+  "subtitles.entity.baby_wolf.growl": "Ci bach yn chwyrnu",
+  "subtitles.entity.baby_wolf.hurt": "Ci bach yn brifo",
+  "subtitles.entity.baby_wolf.pant": "Ci bach yn dyhefod",
+  "subtitles.entity.baby_wolf.whine": "Ci bach yn swnian",
+  "subtitles.entity.pig.eat": "Mochyn yn bwyta"
+}

@@ -1,0 +1,23 @@
+{
+  "subtitles.entity.baby_cat.ambient": "Kätzchen miaut",
+  "subtitles.entity.baby_cat.beg_for_food": "Kätzchen bettelt",
+  "subtitles.entity.baby_cat.death": "Kätzchen stirbt",
+  "subtitles.entity.baby_cat.eat": "Kätzchen frisst",
+  "subtitles.entity.baby_cat.hiss": "Kätzchen faucht",
+  "subtitles.entity.baby_cat.hurt": "Kätzchen nimmt Schaden",
+  "subtitles.entity.baby_cat.purr": "Kätzchen schnurrt",
+  "subtitles.entity.baby_chicken.ambient": "Küken piepst",
+  "subtitles.entity.baby_chicken.death": "Küken stirbt",
+  "subtitles.entity.baby_chicken.hurts": "Küken nimmt Schaden",
+  "subtitles.entity.baby_pig.ambient": "Ferkel grunzt",
+  "subtitles.entity.baby_pig.death": "Ferkel stirbt",
+  "subtitles.entity.baby_pig.eat": "Ferkel frisst",
+  "subtitles.entity.baby_pig.hurt": "Ferkel nimmt Schaden",
+  "subtitles.entity.baby_wolf.ambient": "Welpe jault",
+  "subtitles.entity.baby_wolf.death": "Welpe stirbt",
+  "subtitles.entity.baby_wolf.growl": "Welpe knurrt",
+  "subtitles.entity.baby_wolf.hurt": "Welpe nimmt Schaden",
+  "subtitles.entity.baby_wolf.pant": "Welpe hechelt",
+  "subtitles.entity.baby_wolf.whine": "Welpe winselt",
+  "subtitles.entity.pig.eat": "Schwein frisst"
+}

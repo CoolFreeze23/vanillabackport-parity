@@ -1,0 +1,23 @@
+{
+  "subtitles.entity.baby_cat.ambient": "კნუტი კნავის",
+  "subtitles.entity.baby_cat.beg_for_food": "კნუტი საჭმელს ითხოვს",
+  "subtitles.entity.baby_cat.death": "კნუტი კვდება",
+  "subtitles.entity.baby_cat.eat": "კნუტი ჭამს",
+  "subtitles.entity.baby_cat.hiss": "კნუტი შიშინებს",
+  "subtitles.entity.baby_cat.hurt": "კნუტი დაიჭრა",
+  "subtitles.entity.baby_cat.purr": "კნუტი კრუტუნებს",
+  "subtitles.entity.baby_chicken.ambient": "წიწილა წრიპინებს",
+  "subtitles.entity.baby_chicken.death": "წიწილა კვდება",
+  "subtitles.entity.baby_chicken.hurts": "წიწილა დაიჭრა",
+  "subtitles.entity.baby_pig.ambient": "გოჭი ღრუტუნებს",
+  "subtitles.entity.baby_pig.death": "გოჭი კვდება",
+  "subtitles.entity.baby_pig.eat": "გოჭი ჭამს",
+  "subtitles.entity.baby_pig.hurt": "გოჭი დაიჭრა",
+  "subtitles.entity.baby_wolf.ambient": "ლეკვი წკავწკავებს",
+  "subtitles.entity.baby_wolf.death": "ლეკვი კვდება",
+  "subtitles.entity.baby_wolf.growl": "ლეკვი იღრინება",
+  "subtitles.entity.baby_wolf.hurt": "ლეკვი დაიჭრა",
+  "subtitles.entity.baby_wolf.pant": "ლეკვი ქოშინებს",
+  "subtitles.entity.baby_wolf.whine": "ლეკვი წკმუტუნებს",
+  "subtitles.entity.pig.eat": "ღორი ჭამს"
+}

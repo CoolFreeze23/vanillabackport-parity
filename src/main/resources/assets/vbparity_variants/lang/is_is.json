@@ -1,0 +1,23 @@
+{
+  "subtitles.entity.baby_cat.ambient": "Kettlingur mjálmar",
+  "subtitles.entity.baby_cat.beg_for_food": "Kettlingur betlar",
+  "subtitles.entity.baby_cat.death": "Kettlingur deyr",
+  "subtitles.entity.baby_cat.eat": "Kettlingur borðar",
+  "subtitles.entity.baby_cat.hiss": "Kettlingur kvæsir",
+  "subtitles.entity.baby_cat.hurt": "Kettlingur meiðist",
+  "subtitles.entity.baby_cat.purr": "Kettlingur malar",
+  "subtitles.entity.baby_chicken.ambient": "Ungi tístir",
+  "subtitles.entity.baby_chicken.death": "Ungi deyr",
+  "subtitles.entity.baby_chicken.hurts": "Ungi meiðist",
+  "subtitles.entity.baby_pig.ambient": "Gríslingur hrínir",
+  "subtitles.entity.baby_pig.death": "Gríslíngur deyr",
+  "subtitles.entity.baby_pig.eat": "Grís étur",
+  "subtitles.entity.baby_pig.hurt": "Gríslingur meiðist",
+  "subtitles.entity.baby_wolf.ambient": "Hvolpur geltir",
+  "subtitles.entity.baby_wolf.death": "Hvolpur deyr",
+  "subtitles.entity.baby_wolf.growl": "Hvolpur urrar",
+  "subtitles.entity.baby_wolf.hurt": "Hvolpur meiðist",
+  "subtitles.entity.baby_wolf.pant": "Puppy pants",
+  "subtitles.entity.baby_wolf.whine": "Hvolpur vælir",
+  "subtitles.entity.pig.eat": "Svín étur"
+}

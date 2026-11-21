@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "minecraft:cinnabar"
+  },
+  "result": {
+    "id": "minecraft:cinnabar_brick_stairs",
+    "count": 1
+  }
+}

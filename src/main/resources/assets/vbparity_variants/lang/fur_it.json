@@ -1,0 +1,23 @@
+{
+  "subtitles.entity.baby_cat.ambient": "Gnauleç di gjatut",
+  "subtitles.entity.baby_cat.beg_for_food": "Gjatut al domande mangjative",
+  "subtitles.entity.baby_cat.death": "Gjatut al mûr",
+  "subtitles.entity.baby_cat.eat": "Gjatut al mangje",
+  "subtitles.entity.baby_cat.hiss": "Gjatut al tufe",
+  "subtitles.entity.baby_cat.hurt": "Gjatut ferît",
+  "subtitles.entity.baby_cat.purr": "Gjatut al fâs fûs",
+  "subtitles.entity.baby_chicken.ambient": "Poleçut al piule",
+  "subtitles.entity.baby_chicken.death": "Poleçut al mûr",
+  "subtitles.entity.baby_chicken.hurts": "Poleçut ferît",
+  "subtitles.entity.baby_pig.ambient": "Purcitut al rugne",
+  "subtitles.entity.baby_pig.death": "Purcitut al mûr",
+  "subtitles.entity.baby_pig.eat": "Purcitut al mangje",
+  "subtitles.entity.baby_pig.hurt": "Purcitut ferît",
+  "subtitles.entity.baby_wolf.ambient": "Piçul di lôf al vuiche",
+  "subtitles.entity.baby_wolf.death": "Piçul di lôf al mûr",
+  "subtitles.entity.baby_wolf.growl": "Piçul di lôf al rugne",
+  "subtitles.entity.baby_wolf.hurt": "Piçul di lôf ferît",
+  "subtitles.entity.baby_wolf.pant": "Piçul di lôf al sflade",
+  "subtitles.entity.baby_wolf.whine": "Piçul di lôf sì lamente",
+  "subtitles.entity.pig.eat": "Purcit al mangje"
+}

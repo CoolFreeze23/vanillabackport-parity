@@ -1,0 +1,122 @@
+{
+  "type": "vbparity:wild_switch",
+  "config": {
+    "key": "fallen_trees",
+    "on": {
+      "feature": {
+        "type": "minecraft:weighted_random_selector",
+        "config": {
+          "features": [
+            {
+              "data": {
+                "feature": {
+                  "type": "vbparity:wild_switch",
+                  "config": {
+                    "key": "leaf_litter",
+                    "on": "minecraft:red_poplar_leaf_litter",
+                    "off": "minecraft:red_poplar"
+                  }
+                },
+                "placement": []
+              },
+              "weight": 200
+            },
+            {
+              "data": {
+                "feature": {
+                  "type": "vbparity:wild_switch",
+                  "config": {
+                    "key": "leaf_litter",
+                    "on": "minecraft:orange_poplar_leaf_litter",
+                    "off": "minecraft:orange_poplar"
+                  }
+                },
+                "placement": []
+              },
+              "weight": 240
+            },
+            {
+              "data": {
+                "feature": {
+                  "type": "vbparity:wild_switch",
+                  "config": {
+                    "key": "leaf_litter",
+                    "on": "minecraft:yellow_poplar_leaf_litter",
+                    "off": "minecraft:yellow_poplar"
+                  }
+                },
+                "placement": []
+              },
+              "weight": 90
+            },
+            {
+              "data": "minecraft:spruce_checked",
+              "weight": 27
+            },
+            {
+              "data": "minecraft:fallen_poplar_tree",
+              "weight": 120
+            }
+          ]
+        }
+      },
+      "placement": []
+    },
+    "off": {
+      "feature": {
+        "type": "minecraft:weighted_random_selector",
+        "config": {
+          "features": [
+            {
+              "data": {
+                "feature": {
+                  "type": "vbparity:wild_switch",
+                  "config": {
+                    "key": "leaf_litter",
+                    "on": "minecraft:red_poplar_leaf_litter",
+                    "off": "minecraft:red_poplar"
+                  }
+                },
+                "placement": []
+              },
+              "weight": 200
+            },
+            {
+              "data": {
+                "feature": {
+                  "type": "vbparity:wild_switch",
+                  "config": {
+                    "key": "leaf_litter",
+                    "on": "minecraft:orange_poplar_leaf_litter",
+                    "off": "minecraft:orange_poplar"
+                  }
+                },
+                "placement": []
+              },
+              "weight": 240
+            },
+            {
+              "data": {
+                "feature": {
+                  "type": "vbparity:wild_switch",
+                  "config": {
+                    "key": "leaf_litter",
+                    "on": "minecraft:yellow_poplar_leaf_litter",
+                    "off": "minecraft:yellow_poplar"
+                  }
+                },
+                "placement": []
+              },
+              "weight": 90
+            },
+            {
+              "data": "minecraft:spruce_checked",
+              "weight": 27
+            }
+          ]
+        }
+      },
+      "placement": []
+    }
+  }
+}

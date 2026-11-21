@@ -1,0 +1,23 @@
+{
+  "subtitles.entity.baby_cat.ambient": "El gatet miola",
+  "subtitles.entity.baby_cat.beg_for_food": "El gatet suplica",
+  "subtitles.entity.baby_cat.death": "El gatet mor",
+  "subtitles.entity.baby_cat.eat": "El gatet menja",
+  "subtitles.entity.baby_cat.hiss": "El gatet bufa",
+  "subtitles.entity.baby_cat.hurt": "Al gatet li fa mal",
+  "subtitles.entity.baby_cat.purr": "El gatet ronca",
+  "subtitles.entity.baby_chicken.ambient": "Pollet piu",
+  "subtitles.entity.baby_chicken.death": "Pollet mor",
+  "subtitles.entity.baby_chicken.hurts": "Pollet ferit",
+  "subtitles.entity.baby_pig.ambient": "El porquet gruny",
+  "subtitles.entity.baby_pig.death": "El porquet mor",
+  "subtitles.entity.baby_pig.eat": "El porquet menja",
+  "subtitles.entity.baby_pig.hurt": "Al porquet li fa mal",
+  "subtitles.entity.baby_wolf.ambient": "El cadell gemega",
+  "subtitles.entity.baby_wolf.death": "El cadell mor",
+  "subtitles.entity.baby_wolf.growl": "El cadell gruny",
+  "subtitles.entity.baby_wolf.hurt": "Al cadell li fa mal",
+  "subtitles.entity.baby_wolf.pant": "El cadell panteixa",
+  "subtitles.entity.baby_wolf.whine": "El cadell ploriqueja",
+  "subtitles.entity.pig.eat": "El porc menja"
+}

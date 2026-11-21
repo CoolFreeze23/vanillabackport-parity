@@ -1,0 +1,23 @@
+{
+  "subtitles.entity.baby_cat.ambient": "Кушак ҫури мавӑклатрӗ",
+  "subtitles.entity.baby_cat.beg_for_food": "Кушак ҫури апат ыйтрӗ",
+  "subtitles.entity.baby_cat.death": "Кушак ҫури вилчӗ",
+  "subtitles.entity.baby_cat.eat": "Кушак ҫури ҫирӗ",
+  "subtitles.entity.baby_cat.hiss": "Кушак ҫури чашкӑрчӗ",
+  "subtitles.entity.baby_cat.hurt": "Кушак ҫури аманчӗ",
+  "subtitles.entity.baby_cat.purr": "Кушак ҫури мӑрлатрӗ",
+  "subtitles.entity.baby_chicken.ambient": "Чӗпӗ чӑйлатрӗ",
+  "subtitles.entity.baby_chicken.death": "Чӗпӗ вилчӗ",
+  "subtitles.entity.baby_chicken.hurts": "Чӗпӗ аманчӗ",
+  "subtitles.entity.baby_pig.ambient": "Сысна ҫури нӑриклетрӗ",
+  "subtitles.entity.baby_pig.death": "Сысна ҫури вилчӗ",
+  "subtitles.entity.baby_pig.eat": "Сысна ҫури ҫирӗ",
+  "subtitles.entity.baby_pig.hurt": "Сысна ҫури аманчӗ",
+  "subtitles.entity.baby_wolf.ambient": "Кашкӑр ҫури ҫинҫе сасӑпа вӗрчӗ",
+  "subtitles.entity.baby_wolf.death": "Кашкӑр ҫури вилчӗ",
+  "subtitles.entity.baby_wolf.growl": "Кашкӑр ҫури харлатрӗ",
+  "subtitles.entity.baby_wolf.hurt": "Кашкӑр ҫури аманчӗ",
+  "subtitles.entity.baby_wolf.pant": "Кашкӑр ҫури тулхӑрчӗ",
+  "subtitles.entity.baby_wolf.whine": "Кашкӑр ҫури йынӑшрӗ",
+  "subtitles.entity.pig.eat": "Сысна ҫирӗ"
+}

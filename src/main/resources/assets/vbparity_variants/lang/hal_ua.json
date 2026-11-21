@@ -1,0 +1,23 @@
+{
+  "subtitles.entity.baby_cat.ambient": "Котє мнєвчит",
+  "subtitles.entity.baby_cat.beg_for_food": "Котє випрошує їду",
+  "subtitles.entity.baby_cat.death": "Котє гине",
+  "subtitles.entity.baby_cat.eat": "Котє їсь",
+  "subtitles.entity.baby_cat.hiss": "Котє шипит",
+  "subtitles.entity.baby_cat.hurt": "Котє скривджено",
+  "subtitles.entity.baby_cat.purr": "Котє мурчит",
+  "subtitles.entity.baby_chicken.ambient": "Цїпє цїпкає",
+  "subtitles.entity.baby_chicken.death": "Цїпє гине",
+  "subtitles.entity.baby_chicken.hurts": "Цїпє скривджено",
+  "subtitles.entity.baby_pig.ambient": "Пацє рохкає",
+  "subtitles.entity.baby_pig.death": "Пацє гине",
+  "subtitles.entity.baby_pig.eat": "Пацє їсь",
+  "subtitles.entity.baby_pig.hurt": "Пацє скривджено",
+  "subtitles.entity.baby_wolf.ambient": "Песьо гавкає",
+  "subtitles.entity.baby_wolf.death": "Песьо гине",
+  "subtitles.entity.baby_wolf.growl": "Песьо гарчит",
+  "subtitles.entity.baby_wolf.hurt": "Песьо скривджено",
+  "subtitles.entity.baby_wolf.pant": "Песьо пуркає",
+  "subtitles.entity.baby_wolf.whine": "Песьо скавчит",
+  "subtitles.entity.pig.eat": "Свинє їсь"
+}

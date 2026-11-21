@@ -1,0 +1,23 @@
+{
+  "subtitles.entity.baby_cat.ambient": "Gatinho mia",
+  "subtitles.entity.baby_cat.beg_for_food": "Gatinho pede",
+  "subtitles.entity.baby_cat.death": "Gatinho morre",
+  "subtitles.entity.baby_cat.eat": "Gatinho come",
+  "subtitles.entity.baby_cat.hiss": "Gatinho sibila",
+  "subtitles.entity.baby_cat.hurt": "Gatinho ferido",
+  "subtitles.entity.baby_cat.purr": "Gatinho ronrona",
+  "subtitles.entity.baby_chicken.ambient": "Pintinho pia",
+  "subtitles.entity.baby_chicken.death": "Pintinho morre",
+  "subtitles.entity.baby_chicken.hurts": "Pintinho ferido",
+  "subtitles.entity.baby_pig.ambient": "Leitão grunhe",
+  "subtitles.entity.baby_pig.death": "Leitão morre",
+  "subtitles.entity.baby_pig.eat": "Leitão come",
+  "subtitles.entity.baby_pig.hurt": "Leitão ferido",
+  "subtitles.entity.baby_wolf.ambient": "Filhote late",
+  "subtitles.entity.baby_wolf.death": "Filhote morre",
+  "subtitles.entity.baby_wolf.growl": "Filhote rosna",
+  "subtitles.entity.baby_wolf.hurt": "Filhote ferido",
+  "subtitles.entity.baby_wolf.pant": "Filhote ofega",
+  "subtitles.entity.baby_wolf.whine": "Filhote choraminga",
+  "subtitles.entity.pig.eat": "Porco come"
+}

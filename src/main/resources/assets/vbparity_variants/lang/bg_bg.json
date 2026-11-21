@@ -1,0 +1,23 @@
+{
+  "subtitles.entity.baby_cat.ambient": "Котенце мяука",
+  "subtitles.entity.baby_cat.beg_for_food": "Котенце се моли",
+  "subtitles.entity.baby_cat.death": "Котенце умира",
+  "subtitles.entity.baby_cat.eat": "Котенце яде",
+  "subtitles.entity.baby_cat.hiss": "Котенце съска",
+  "subtitles.entity.baby_cat.hurt": "Нараняване на котенце",
+  "subtitles.entity.baby_cat.purr": "Котенце мърка",
+  "subtitles.entity.baby_chicken.ambient": "Пиленце писука",
+  "subtitles.entity.baby_chicken.death": "Пиленце умира",
+  "subtitles.entity.baby_chicken.hurts": "Нараняване на пиленце",
+  "subtitles.entity.baby_pig.ambient": "Бебе прасенце грухти",
+  "subtitles.entity.baby_pig.death": "Бебе прасенце умира",
+  "subtitles.entity.baby_pig.eat": "Бебе прасенце яде",
+  "subtitles.entity.baby_pig.hurt": "Нараняване на бебе прасенце",
+  "subtitles.entity.baby_wolf.ambient": "Кученце лае",
+  "subtitles.entity.baby_wolf.death": "Кученце умира",
+  "subtitles.entity.baby_wolf.growl": "Кученце ръмжи",
+  "subtitles.entity.baby_wolf.hurt": "Нараняване на кученце",
+  "subtitles.entity.baby_wolf.pant": "Кученце диша",
+  "subtitles.entity.baby_wolf.whine": "Кученце скимти",
+  "subtitles.entity.pig.eat": "Прасе яде"
+}

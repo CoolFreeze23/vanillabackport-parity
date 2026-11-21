@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [],
+  "remove": [
+    "minecraft:old_growth_birch_forest"
+  ]
+}

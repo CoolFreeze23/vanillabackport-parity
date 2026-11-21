@@ -1,0 +1,23 @@
+{
+  "subtitles.entity.baby_cat.ambient": "Kaciania miaŭkaje",
+  "subtitles.entity.baby_cat.beg_for_food": "Kaciania prosić",
+  "subtitles.entity.baby_cat.death": "Kaciania hinie",
+  "subtitles.entity.baby_cat.eat": "Kaciania jesć",
+  "subtitles.entity.baby_cat.hiss": "Kaciania šypić",
+  "subtitles.entity.baby_cat.hurt": "Kaciania paranienaje",
+  "subtitles.entity.baby_cat.purr": "Kaciania murkaje",
+  "subtitles.entity.baby_chicken.ambient": "Kurania ciŭkaje",
+  "subtitles.entity.baby_chicken.death": "Kurania hinie",
+  "subtitles.entity.baby_chicken.hurts": "Kurania paranienaje",
+  "subtitles.entity.baby_pig.ambient": "Parasia rochkaje",
+  "subtitles.entity.baby_pig.death": "Parasia hinie",
+  "subtitles.entity.baby_pig.eat": "Parasia jesć",
+  "subtitles.entity.baby_pig.hurt": "Parasia paranienaje",
+  "subtitles.entity.baby_wolf.ambient": "Ščania ciaŭkaje",
+  "subtitles.entity.baby_wolf.death": "Ščania hinie",
+  "subtitles.entity.baby_wolf.growl": "Ščania hyrkaje",
+  "subtitles.entity.baby_wolf.hurt": "Ščania paranienaje",
+  "subtitles.entity.baby_wolf.pant": "Ščania ciažka sapie",
+  "subtitles.entity.baby_wolf.whine": "Ščania skavyča",
+  "subtitles.entity.pig.eat": "Svinnia jesć"
+}

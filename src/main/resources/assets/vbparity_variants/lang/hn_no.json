@@ -1,0 +1,23 @@
+{
+  "subtitles.entity.baby_cat.ambient": "Kjetling mjauar",
+  "subtitles.entity.baby_cat.beg_for_food": "Kjetling tigg",
+  "subtitles.entity.baby_cat.death": "Kjetling døyr",
+  "subtitles.entity.baby_cat.eat": "Kjetling et",
+  "subtitles.entity.baby_cat.hiss": "Kjekling kvæser",
+  "subtitles.entity.baby_cat.hurt": "Kjetling verkjer",
+  "subtitles.entity.baby_cat.purr": "Kjetling mel",
+  "subtitles.entity.baby_chicken.ambient": "Kjukling pip",
+  "subtitles.entity.baby_chicken.death": "Kjukling døyr",
+  "subtitles.entity.baby_chicken.hurts": "Kjukling verkjer",
+  "subtitles.entity.baby_pig.ambient": "Svinunge gryntar",
+  "subtitles.entity.baby_pig.death": "Svinunge døyr",
+  "subtitles.entity.baby_pig.eat": "Svinunge et",
+  "subtitles.entity.baby_pig.hurt": "Svinunge verkjer",
+  "subtitles.entity.baby_wolf.ambient": "Kvelp smågøyr",
+  "subtitles.entity.baby_wolf.death": "Kvelp døyr",
+  "subtitles.entity.baby_wolf.growl": "Kvelp knurrar",
+  "subtitles.entity.baby_wolf.hurt": "Kvelp verkjer",
+  "subtitles.entity.baby_wolf.pant": "Kvelp pæsar",
+  "subtitles.entity.baby_wolf.whine": "Kvelp kvin",
+  "subtitles.entity.pig.eat": "Svin et"
+}

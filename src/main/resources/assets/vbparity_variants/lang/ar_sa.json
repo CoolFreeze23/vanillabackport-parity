@@ -1,0 +1,23 @@
+{
+  "subtitles.entity.baby_cat.ambient": "مواء القطة الصغيرة",
+  "subtitles.entity.baby_cat.beg_for_food": "توسل القطة الصغيرة",
+  "subtitles.entity.baby_cat.death": "موت القطة الصغيرة",
+  "subtitles.entity.baby_cat.eat": "القطة الصغيرة تأكل",
+  "subtitles.entity.baby_cat.hiss": "فحيح القطة الصغيرة",
+  "subtitles.entity.baby_cat.hurt": "تألم القطة الصغيرة",
+  "subtitles.entity.baby_cat.purr": "خرخرة القطة الصغيرة",
+  "subtitles.entity.baby_chicken.ambient": "الكتكوت يزقزق",
+  "subtitles.entity.baby_chicken.death": "الدجاجة تموت",
+  "subtitles.entity.baby_chicken.hurts": "الدجاجة تتاذى",
+  "subtitles.entity.baby_pig.ambient": "خوار الخنزير الصغير",
+  "subtitles.entity.baby_pig.death": "موت الخنزير الصغير",
+  "subtitles.entity.baby_pig.eat": "الخنزير الصغير يأكل",
+  "subtitles.entity.baby_pig.hurt": "الخنزير الصغير يتألم",
+  "subtitles.entity.baby_wolf.ambient": "الجرو ينبح",
+  "subtitles.entity.baby_wolf.death": "مات الجرو",
+  "subtitles.entity.baby_wolf.growl": "الجرو يزمجر",
+  "subtitles.entity.baby_wolf.hurt": "الجرو يتألم",
+  "subtitles.entity.baby_wolf.pant": "الجرو يلهث",
+  "subtitles.entity.baby_wolf.whine": "الجرو ينوح",
+  "subtitles.entity.pig.eat": "الخنزير يأكل"
+}

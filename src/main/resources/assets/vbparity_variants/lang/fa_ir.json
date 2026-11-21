@@ -1,0 +1,23 @@
+{
+  "subtitles.entity.baby_cat.ambient": "پيشی میو کرد",
+  "subtitles.entity.baby_cat.beg_for_food": "التماس کردن پيشی",
+  "subtitles.entity.baby_cat.death": "پيشی مرد",
+  "subtitles.entity.baby_cat.eat": "پيشی می‌خورد",
+  "subtitles.entity.baby_cat.hiss": "پيشی هیس‌هیس میکند",
+  "subtitles.entity.baby_cat.hurt": "پيشی مجروح شد",
+  "subtitles.entity.baby_cat.purr": "پيشی خرخر میکند",
+  "subtitles.entity.baby_chicken.ambient": "جوجه ورجک وروجک میکند",
+  "subtitles.entity.baby_chicken.death": "جوجه ميمیرد",
+  "subtitles.entity.baby_chicken.hurts": "جوجه آسيب میبيند",
+  "subtitles.entity.baby_pig.ambient": "صدای بچه خوک",
+  "subtitles.entity.baby_pig.death": "بچه خوک مرد",
+  "subtitles.entity.baby_pig.eat": "بچه خوک می‌خورد",
+  "subtitles.entity.baby_pig.hurt": "بچه خوک آسيب ديد",
+  "subtitles.entity.baby_wolf.ambient": "توله هیپ هیپ میکند",
+  "subtitles.entity.baby_wolf.death": "توله میمیرد",
+  "subtitles.entity.baby_wolf.growl": "توله خرخر میکند",
+  "subtitles.entity.baby_wolf.hurt": "توله آسيب میبیند",
+  "subtitles.entity.baby_wolf.pant": "توله پهه میکند",
+  "subtitles.entity.baby_wolf.whine": "توله زوزه میکشد",
+  "subtitles.entity.pig.eat": "خوک می‌خورد"
+}
